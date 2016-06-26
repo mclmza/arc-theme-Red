@@ -12,15 +12,15 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 
 #####Arc-Red
 
-![A screenshot of the Arc theme](http://i.imgur.com/pVpK1OL.png)
+![A screenshot of the Arc theme](http://i.imgur.com/Utgi19P.png)
 
 #####Arc-Red-Darker
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/SM0t0h2.png)
+![A screenshot of the Arc-Darker theme](http://i.imgur.com/dQbcAc1.png)
 
 #####Arc-Red-Dark
 
-![A screenshot of the Arc-Dark theme](http://i.imgur.com/XM7PJzT.png)
+![A screenshot of the Arc-Dark theme](http://i.imgur.com/z4Dg8pb.png)
 
 
 ### Requirements
