@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="corner-ripple-rtl.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-279 371 52 52"
+	 style="enable-background:new -279 371 52 52;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path2991_1_);}
+</style>
+<sodipodi:namedview  objecttolerance="10" id="namedview955" gridtolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" guidetolerance="10" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-1000.3622)">
+	
+		<radialGradient id="path2991_1_" cx="-279" cy="1425.3622" r="52" gradientTransform="matrix(1 0 0 -1 52 2796.7244)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#BE3941;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#BE3941"/>
+	</radialGradient>
+	<path id="path2991" class="st0" d="M-175,1371.4c0,28.7-23.3,52-52,52s-52-23.3-52-52s23.3-52,52-52S-175,1342.6-175,1371.4z"/>
+</g>
+</svg>

@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg9892" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="assets.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-52 189 507 416"
+	 style="enable-background:new -52 189 507 416;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.18;fill:#878787;enable-background:new    ;}
+	.st1{fill:#F5F6F7;}
+	.st2{fill:#FCFDFD;}
+	.st3{fill:none;stroke:#CFD6E6;stroke-width:1;}
+	.st4{fill:none;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#FBFCFC;}
+	.st7{fill:none;stroke:#E2E7EF;stroke-width:1;}
+	.st8{fill:#D3D8E2;}
+	.st9{fill:none;stroke:#B7C0D3;stroke-width:1;}
+	.st10{fill:#CFD6E6;}
+	.st11{opacity:0.55;}
+	.st12{fill:#CC575D;}
+	.st13{opacity:0.85;}
+	.st14{fill:#EEEEEE;fill-opacity:0;}
+	.st15{fill:#D7787D;}
+	.st16{fill:none;stroke:#CC575D;stroke-width:1;}
+	.st17{opacity:0.55;fill:none;stroke:#CFD6E6;stroke-width:1;enable-background:new    ;}
+	.st18{clip-path:url(#SVGID_2_);}
+	.st19{clip-path:url(#SVGID_4_);}
+	.st20{clip-path:url(#SVGID_6_);}
+	.st21{clip-path:url(#SVGID_8_);}
+	.st22{clip-path:url(#SVGID_10_);}
+	.st23{clip-path:url(#SVGID_12_);}
+	.st24{clip-path:url(#SVGID_14_);}
+	.st25{opacity:0.3;fill:#CFD6E6;enable-background:new    ;}
+	.st26{clip-path:url(#SVGID_16_);}
+	.st27{opacity:0.3;fill:#E2E7EF;enable-background:new    ;}
+	.st28{clip-path:url(#SVGID_18_);}
+	.st29{fill:#B7C0D3;}
+	.st30{clip-path:url(#SVGID_20_);}
+	.st31{clip-path:url(#SVGID_22_);}
+	.st32{clip-path:url(#SVGID_24_);}
+	.st33{clip-path:url(#SVGID_26_);}
+	.st34{clip-path:url(#SVGID_28_);}
+	.st35{clip-path:url(#SVGID_30_);}
+	.st36{clip-path:url(#SVGID_32_);}
+	.st37{fill:#FDFDFD;}
+	.st38{opacity:0.11;enable-background:new    ;}
+	.st39{clip-path:url(#SVGID_34_);}
+	.st40{clip-path:url(#SVGID_36_);}
+	.st41{clip-path:url(#SVGID_38_);}
+	.st42{clip-path:url(#SVGID_40_);}
+	.st43{clip-path:url(#SVGID_42_);}
+	.st44{clip-path:url(#SVGID_44_);}
+	.st45{clip-path:url(#SVGID_46_);}
+	.st46{clip-path:url(#SVGID_48_);}
+	.st47{clip-path:url(#SVGID_50_);}
+	.st48{clip-path:url(#SVGID_52_);}
+	.st49{fill:#5C616C;}
+	.st50{opacity:0.55;fill:#5C616C;enable-background:new    ;}
+	.st51{fill:#8C919D;}
+	.st52{fill:none;enable-background:new    ;}
+	.st53{fill:#FFFFFF;stroke:#CBD2E3;}
+	.st54{fill:#CC575D;stroke:#CC575D;}
+	.st55{fill:#F9FAFB;stroke:#F9FAFB;}
+	.st56{opacity:0.55;fill:#FFFFFF;stroke:#CBD2E3;enable-background:new    ;}
+	.st57{fill:#D3D4D8;}
+	.st58{fill:#FFFFFF;stroke:#DDE3E9;}
+	.st59{clip-path:url(#SVGID_54_);}
+	.st60{fill:#DDE3E9;}
+	.st61{clip-path:url(#SVGID_56_);}
+	.st62{clip-path:url(#SVGID_58_);}
+	.st63{clip-path:url(#SVGID_60_);}
+	.st64{clip-path:url(#SVGID_62_);fill:#F0F2F5;stroke:#DDE3E9;}
+	.st65{opacity:5.000000e-002;enable-background:new    ;}
+	.st66{fill:#D8DAE0;}
+	.st67{fill:#E7E8EB;}
+	.st68{fill:#D7D8DD;}
+	.st69{fill:none;stroke:#CFD6E6;stroke-opacity:0.6735;}
+	.st70{fill:#B8BABF;}
+	.st71{fill:#FCFCFC;}
+	.st72{fill:#DBDFE3;}
+	.st73{fill:#EAEBED;}
+	.st74{opacity:0.5;fill:#FFFFFF;enable-background:new    ;}
+	.st75{opacity:0.5;fill:#FFFFFF;fill-opacity:0.1176;enable-background:new    ;}
+	.st76{opacity:0.5;}
+	.st77{fill:#FFFFFF;fill-opacity:0.1176;}
+</style>
+<path id="rect8906" class="st0" d="M-145,188h26c1.7,0,3,1.3,3,3v26c0,1.7-1.3,3-3,3h-26c-1.7,0-3-1.3-3-3v-26
+	C-148,189.3-146.7,188-145,188z"/>
+<sodipodi:namedview  fit-margin-left="0" fit-margin-top="0" showguides="false" showborder="false" showgrid="true" borderopacity="1.0" inkscape:cy="353.39299" inkscape:zoom="7.9999996" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:cx="68.971701" fit-margin-bottom="0" fit-margin-right="0" inkscape:snap-bbox-midpoints="false" inkscape:object-nodes="true" inkscape:bbox-nodes="true" inkscape:guide-bbox="true" inkscape:snap-global="true" inkscape:bbox-paths="true" inkscape:snap-bbox="true" inkscape:snap-nodes="true" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:window-height="720" inkscape:window-x="0" inkscape:window-width="1366" inkscape:pageshadow="2" inkscape:snap-bbox-edge-midpoints="true">
+	
+		<inkscape:grid  type="xygrid" empspacing="5" originy="-920" originx="7" enabled="true" visible="true" id="grid10919" snapvisiblegridlinesonly="true">
+		</inkscape:grid>
+	<sodipodi:guide  position="378.875,-145.75" orientation="1,0" id="guide8384"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer3" transform="translate(7,283.63782)" inkscape:label="superbackdrop" inkscape:groupmode="layer" sodipodi:insensitive="true">
+	<rect id="rect18028" x="-59" y="-94.6" class="st1" width="507" height="416"/>
+</g>
+<g id="layer1" transform="translate(7,283.63782)" inkscape:label="assets" inkscape:groupmode="layer">
+	<g id="sjhgfjsgf" transform="matrix(1.9947791,0,0,1.9939719,354.38167,165.09433)" inkscape:label="#g10801">
+	</g>
+	<g id="button" inkscape:label="#g9335">
+		<path id="rect7903" class="st2" d="M-52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+			C-53-89.2-52.6-89.6-52-89.6z"/>
+		<path id="rect7903-7" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+			M-51.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-53.5-89.2-52.6-90.1-51.5-90.1z"/>
+		<rect id="rect9321" x="-55" y="-90.6" class="st4" width="26" height="24"/>
+	</g>
+	<g id="button-hover" inkscape:label="#g9350">
+		<path id="rect7903-2" class="st5" d="M-18-89.6H2c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+			C-19-89.2-18.6-89.6-18-89.6z"/>
+		<path id="rect7903-7-3" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+			M-17.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-19.5-89.2-18.6-90.1-17.5-90.1z"/>
+		<rect id="rect9321-0" x="-21" y="-90.6" class="st4" width="26" height="24"/>
+	</g>
+	<g id="button-insensitive" inkscape:label="#g9365">
+		<path id="rect7903-6" class="st6" d="M16-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H16c-0.6,0-1-0.4-1-1v-20
+			C15-89.2,15.4-89.6,16-89.6z"/>
+		<path id="rect7903-7-2" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+			M16.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C14.5-89.2,15.4-90.1,16.5-90.1z"/>
+		<rect id="rect9321-09" x="13" y="-90.6" class="st4" width="26" height="24"/>
+	</g>
+	<g id="button-active" inkscape:label="#g9380">
+		<path id="rect7903-21" class="st8" d="M50.5-89.6h19c0.8,0,1.5,0.7,1.5,1.5v19c0,0.8-0.7,1.5-1.5,1.5h-19c-0.8,0-1.5-0.7-1.5-1.5
+			v-19C49-89,49.7-89.6,50.5-89.6z"/>
+		<path id="rect7903-7-22" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="-0.42353254" class="st9" d="
+			M50.5-67.1h19c1.1,0,2-0.9,2-2v-19c0-1.1-0.9-2-2-2h-19c-1.1,0-2,0.9-2,2v19C48.5-68,49.4-67.1,50.5-67.1z"/>
+		<rect id="rect9321-2" x="47" y="-90.6" class="st4" width="26" height="24"/>
+	</g>
+	<g id="menu-checkbox-unchecked" transform="translate(214,-1319)" inkscape:label="Ebene 1">
+		<g id="checkbox-unchecked-49" transform="translate(-19,1036.9872)" inkscape:label="#g22047">
+			<g id="sdsd-1" inkscape:label="#g21853">
+				<path id="rect21848-6" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssssssssssssssss" class="st10" d="M-31.1,191.4
+					c-1,0-1.9,0.8-1.9,1.9v9.3c0,1,0.8,1.9,1.9,1.9h9.3c1,0,1.9-0.8,1.9-1.9v-9.3c0-1-0.8-1.9-1.9-1.9H-31.1z M-31,192.4h9
+					c0.5,0,1,0.5,1,1v9c0,0.5-0.5,1-1,1l-9.1-0.1c-0.5,0-0.9-0.4-0.9-0.9v-9C-32,192.9-31.5,192.4-31,192.4z"/>
+				<g id="scdsdcd-69" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-10" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-6" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-3">
+							</g>
+						</g>
+					</g>
+					<g id="g5400-3">
+						<path id="rect5147-9-1-5-7-6-55" class="st5" d="M-31,222.4h9c0.6,0,1,0.4,1,1v9c0,0.6-0.4,1-1,1h-9c-0.6,0-1-0.4-1-1v-9
+							C-32,222.8-31.6,222.4-31,222.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-checkbox-unchecked-insensitive" transform="translate(229,-1319)" inkscape:label="Ebene 1" class="st11">
+		<g id="checkbox-unchecked-2-0" transform="translate(-19,1036.9872)" inkscape:label="#g22047">
+			<g id="sdsd-3-0" inkscape:label="#g21853">
+				<path id="rect21848-3-1" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssssssssssssssss" class="st10" d="
+					M-31.1,191.4c-1,0-1.9,0.8-1.9,1.9v9.3c0,1,0.8,1.9,1.9,1.9h9.3c1,0,1.9-0.8,1.9-1.9v-9.3c0-1-0.8-1.9-1.9-1.9H-31.1z
+					 M-31,192.4h9c0.5,0,1,0.5,1,1v9c0,0.5-0.5,1-1,1l-9.1-0.1c-0.5,0-0.9-0.4-0.9-0.9v-9C-32,192.9-31.5,192.4-31,192.4z"/>
+				<g id="scdsdcd-1-9" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-0-0" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-0-1" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-5-9">
+							</g>
+						</g>
+					</g>
+					<g id="g5400-0-5">
+						<path id="rect5147-9-1-5-7-6-0-8" class="st5" d="M-31,222.4h9c0.6,0,1,0.4,1,1v9c0,0.6-0.4,1-1,1h-9c-0.6,0-1-0.4-1-1v-9
+							C-32,222.8-31.6,222.4-31,222.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-checkbox-checked" transform="translate(208.37869,-282.08594)" inkscape:label="#g10758">
+		<g id="checkbox-unchecked-5-8" transform="translate(19,0)" inkscape:label="#g22047">
+			<g id="sdsd-7-9" inkscape:label="#g21853">
+				<g id="scdsdcd-5-83" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-5-9" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-53-42" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-4-4">
+							</g>
+						</g>
+					</g>
+					<g id="g5400-6-55">
+						<path id="rect5147-9-1-5-7-6-7-2" class="st12" d="M-31.4,221.4h9c1.1,0,2,0.9,2,2v9c0,1.1-0.9,2-2,2h-9c-1.1,0-2-0.9-2-2v-9
+							C-33.4,222.3-32.5,221.4-31.4,221.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="checkbox-checked-dark-7-1" transform="translate(36,-1036)" inkscape:label="Ebene 1">
+			<g id="g3981-6-4-7" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)" class="st13">
+			</g>
+			<g id="g4049-2-6" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
+				<g id="g4056-7-3" transform="translate(12.374375,11.531233)">
+					<g id="g3981-0-31" transform="translate(-3,-4.9999826)">
+						<path id="rect3977-39-88" class="st5" d="M105.9,1204.1h3.7c0.4,0,0.7,0.3,0.7,0.7v0.7c0,0.4-0.3,0.7-0.7,0.7h-3.7
+							c-0.4,0-0.7-0.3-0.7-0.7v-0.7C105.2,1204.4,105.5,1204.1,105.9,1204.1z"/>
+						<rect id="rect3979-7-8" x="108.2" y="1198.1" class="st5" width="2" height="8"/>
+					</g>
+					<rect id="rect4047-81-8" x="101.9" y="1198.8" class="st14" width="3" height="1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-radio-unchecked" transform="translate(115,-267.00013)" inkscape:label="#g10975">
+		<path id="path10940-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssssssss" class="st10" d="M47,197.9
+			c0,3.6,2.9,6.5,6.5,6.5c3.6,0,6.5-2.9,6.5-6.5c0-3.6-2.9-6.5-6.5-6.5C49.9,191.4,47,194.3,47,197.9z M48,197.8
+			c0-3.1,2.4-5.4,5.5-5.4s5.5,2.4,5.5,5.5c0,3.1-2.4,5.5-5.5,5.5S48,200.9,48,197.8z"/>
+		<g id="g10964-19">
+			<g id="radio-unchecked2-82" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+				<g id="g7025-16">
+					<g id="g5489-2-9-3-0" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+						<g id="g5428-8-1-7-9">
+							<path id="rect5147-9-1-7-4" class="st5" d="M-41.8,521.1L-41.8,521.1c6.4,0,11.5,5.1,11.5,11.4l0,0c0,6.3-5.2,11.4-11.5,11.4
+								l0,0c-6.4,0-11.5-5.1-11.5-11.4l0,0C-53.3,526.2-48.2,521.1-41.8,521.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-radio-checked" transform="translate(128,-267.00012)" inkscape:label="#g11094">
+		<g id="radio-unchecked-2-7" transform="translate(19.004264,-4.6992607e-6)" inkscape:label="#g10975">
+			<g id="g10964-6-9">
+				<g id="radio-unchecked2-0-1" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+					<g id="g7025-09-3">
+						<g id="g5489-2-9-3-2-1" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+							<g id="g5428-8-1-7-5-7">
+								<path id="rect5147-9-1-7-2-8" class="st12" d="M-41.8,519L-41.8,519c7.5,0,13.6,6,13.6,13.4l0,0c0,7.4-6.1,13.4-13.6,13.4
+									l0,0c-7.5,0-13.6-6-13.6-13.4l0,0C-55.4,525-49.3,519-41.8,519z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="use15101-5-7-8" class="st5" d="M72.5,195.4L72.5,195.4c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5l0,0
+			c-1.4,0-2.5-1.1-2.5-2.5l0,0C70,196.5,71.1,195.4,72.5,195.4z"/>
+	</g>
+	<g id="menu-checkbox-checked-insensitive" transform="translate(223.99999,-282.00013)" inkscape:label="#g10758" class="st11">
+		<g id="checkbox-unchecked-5-9-1" transform="translate(19,0)" inkscape:label="#g22047">
+			<g id="sdsd-7-5-5" inkscape:label="#g21853">
+				<g id="scdsdcd-5-1-7" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-5-1-5" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-53-16-8" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-4-1-8">
+							</g>
+						</g>
+					</g>
+					<g id="g5400-6-7-5">
+						<path id="rect5147-9-1-5-7-6-7-1-8" class="st15" d="M-31,221.4h9c1.1,0,2,0.9,2,2v9c0,1.1-0.9,2-2,2h-9c-1.1,0-2-0.9-2-2v-9
+							C-33,222.3-32.1,221.4-31,221.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="checkbox-checked-dark-7-4-6" transform="translate(36,-1036)" inkscape:label="Ebene 1">
+			<g id="g3981-6-4-97-3" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)" class="st13">
+			</g>
+			<g id="g4049-2-3-9" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
+				<g id="g4056-7-07-7" transform="translate(12.374375,11.531233)">
+					<g id="g3981-0-3-4" transform="translate(-3,-4.9999826)">
+						<path id="rect3977-39-1-0" inkscape:connector-curvature="0" class="st5" d="M108.5,1197.7v6h-3v2h3l2,0l0-2l0-6L108.5,1197.7
+							z"/>
+					</g>
+					<rect id="rect4047-81-1-58" x="101.9" y="1198.8" class="st14" width="3" height="1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<g id="menu-radio-checked-insensitive" transform="matrix(0.92826431,0,0,0.92857155,153.39707,-265.90282)" inkscape:label="#g11094" class="st11">
+		<g id="radio-unchecked-2-8-1" transform="translate(19.004264,-4.6992607e-6)" inkscape:label="#g10975">
+			<g id="g10964-6-4-9">
+				<g id="radio-unchecked2-0-6-2" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+					<g id="g7025-09-1-7">
+						<g id="g5489-2-9-3-2-71-0" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+							<g id="g5428-8-1-7-5-8-1">
+								<path id="rect5147-9-1-7-2-0-6" class="st15" d="M-51.3,547L-51.3,547c8.1,0,14.7,6.5,14.7,14.5l0,0c0,8-6.6,14.5-14.7,14.5
+									l0,0c-8.1,0-14.7-6.5-14.7-14.5l0,0C-66,553.5-59.4,547-51.3,547z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="use15101-5-7-2-3" class="st5" d="M68,209.2L68,209.2c1.5,0,2.7,1.2,2.7,2.7l0,0c0,1.5-1.2,2.7-2.7,2.7l0,0
+			c-1.5,0-2.7-1.2-2.7-2.7l0,0C65.3,210.4,66.5,209.2,68,209.2z"/>
+	</g>
+	<g id="menu-radio-unchecked-insensitive" transform="translate(130,-267.00013)" inkscape:label="#g10975" class="st11">
+		<path id="path10940-4-9" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssssssss" class="st10" d="M47,197.9
+			c0,3.6,2.9,6.5,6.5,6.5c3.6,0,6.5-2.9,6.5-6.5c0-3.6-2.9-6.5-6.5-6.5C49.9,191.4,47,194.3,47,197.9z M48,197.8
+			c0-3.1,2.4-5.4,5.5-5.4s5.5,2.4,5.5,5.5c0,3.1-2.4,5.5-5.5,5.5S48,200.9,48,197.8z"/>
+		<g id="g10964-66-0">
+			<g id="radio-unchecked2-8-4" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+				<g id="g7025-1-8">
+					<g id="g5489-2-9-3-9-2" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+						<g id="g5428-8-1-7-6-8">
+							<path id="rect5147-9-1-7-5-3" class="st5" d="M-41.8,521.1L-41.8,521.1c6.4,0,11.5,5.1,11.5,11.4l0,0
+								c0,6.3-5.2,11.4-11.5,11.4l0,0c-6.4,0-11.5-5.1-11.5-11.4l0,0C-53.3,526.2-48.2,521.1-41.8,521.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="checkbox-unchecked" transform="translate(265,-282.00012)" inkscape:label="#g22047">
+		<g id="sdsd-70-5" inkscape:label="#g21853">
+			<path id="rect21848-4-4" inkscape:connector-curvature="0" class="st10" d="M-32,190.4c-1.1,0-2,0.9-2,2v10c0,1.1,0.9,2,2,2h10
+				c1.1,0,2-0.9,2-2v-10c0-1.1-0.9-2-2-2H-32z M-32,191.4h10c0.6,0,1,0.4,1,1v10c0,0.6-0.4,1-1,1h-10c-0.6,0-1-0.4-1-1v-10
+				C-33,191.8-32.6,191.4-32,191.4z"/>
+			<g id="scdsdcd-6-0" transform="translate(0,-30)" inkscape:label="#g14325">
+				<g id="g15812-6-6-1-58-0" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+					<g id="g5489-2-9-6-8-8-5-2" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+						<g id="g5428-8-1-4-0-0-6-8">
+						</g>
+					</g>
+				</g>
+				<rect id="rect13523-6" x="-35" y="219.4" class="st4" width="16" height="16"/>
+				<g id="g5400-00-1">
+					<path id="rect5147-9-1-5-7-6-6-5" class="st5" d="M-32,221.4h10c0.6,0,1,0.4,1,1v10c0,0.6-0.4,1-1,1h-10c-0.6,0-1-0.4-1-1v-10
+						C-33,221.8-32.6,221.4-32,221.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="checkbox-checked" transform="translate(278,-282.00013)" inkscape:label="#g10758">
+		<g id="checkbox-unchecked-5-0-4" transform="translate(19,0)" inkscape:label="#g22047">
+			<g id="sdsd-7-4-1" inkscape:label="#g21853">
+				<g id="scdsdcd-5-8-1" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-5-5-7" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-53-4-4" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-4-9-2">
+							</g>
+						</g>
+					</g>
+					<rect id="rect13523-7-0" x="-35" y="219.4" class="st4" width="16" height="16"/>
+					<g id="g5400-6-5-4">
+						<path id="rect5147-9-1-5-7-6-7-9-2" class="st12" d="M-32,220.4h10c1.1,0,2,0.9,2,2v10c0,1.1-0.9,2-2,2h-10c-1.1,0-2-0.9-2-2
+							v-10C-34,221.3-33.1,220.4-32,220.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="checkbox-checked-dark-7-2-3" transform="translate(36,-1036)" inkscape:label="Ebene 1">
+			<g id="g3981-6-4-0-2" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)" class="st13">
+			</g>
+			<g id="g4049-2-2-8" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
+				<g id="g4056-7-8-0" transform="translate(12.374375,11.531233)">
+					<g id="g3981-0-4-2" transform="translate(-3,-4.9999826)">
+						<path id="rect3977-39-8-0" class="st5" d="M105.5,1203.8h3.7c0.4,0,0.7,0.3,0.7,0.7v0.7c0,0.4-0.3,0.7-0.7,0.7h-3.7
+							c-0.4,0-0.7-0.3-0.7-0.7v-0.7C104.9,1204.1,105.2,1203.8,105.5,1203.8z"/>
+						<rect id="rect3979-7-1-4" x="107.9" y="1197.8" class="st5" width="2" height="8"/>
+					</g>
+					<rect id="rect4047-81-5-2" x="101.9" y="1198.8" class="st14" width="3" height="1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="radio-unchecked" transform="translate(185.00426,-266.00013)" inkscape:label="#g10975">
+		<path id="path10940-9-4" inkscape:connector-curvature="0" class="st10" d="M46,197.4c0,3.9,3.1,7,7,7s7-3.1,7-7c0-3.9-3.1-7-7-7
+			S46,193.5,46,197.4z M47,197.4c0-3.3,2.7-6,6-6s6,2.7,6,6s-2.7,6-6,6S47,200.7,47,197.4z"/>
+		<g id="g10964-1-7">
+			<g id="radio-unchecked2-6-6" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+				<rect id="rect14348-4-9" x="151.4" y="464" class="st4" width="17.1" height="17.1"/>
+				<g id="g7025-2-1">
+					<g id="g5489-2-9-3-6-6" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+						<g id="g5428-8-1-7-3-0">
+							<path id="rect5147-9-1-7-9-4" class="st5" d="M-42.8,519L-42.8,519c7,0,12.6,5.5,12.6,12.4l0,0c0,6.8-5.6,12.4-12.6,12.4l0,0
+								c-7,0-12.6-5.5-12.6-12.4l0,0C-55.4,524.6-49.8,519-42.8,519z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="radio-checked" transform="translate(198,-266.00013)" inkscape:label="#g11094">
+		<g id="radio-unchecked-2-0-6" transform="translate(19.004264,-4.6992607e-6)" inkscape:label="#g10975">
+			<g id="g10964-6-5-7">
+				<g id="radio-unchecked2-0-7-2" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+					<rect id="rect14348-4-8-8" x="151.4" y="464" class="st4" width="17.1" height="17.1"/>
+					<g id="g7025-09-2-1">
+						<g id="g5489-2-9-3-2-4-5" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+							<g id="g5428-8-1-7-5-2-1">
+								<path id="rect5147-9-1-7-2-3-9" class="st12" d="M-42.8,517L-42.8,517c8.1,0,14.7,6.5,14.7,14.5l0,0c0,8-6.6,14.5-14.7,14.5
+									l0,0c-8.1,0-14.7-6.5-14.7-14.5l0,0C-57.5,523.4-51,517-42.8,517z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="use15101-5-7-0-1" class="st5" d="M72,195.4L72,195.4c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h0c-1.1,0-2-0.9-2-2l0,0
+			C70,196.3,70.9,195.4,72,195.4z"/>
+	</g>
+	<g id="checkbox-unchecked-insensitive" transform="translate(281,-282.00012)" inkscape:label="#g22047" class="st11">
+		<g id="sdsd-6-1" inkscape:label="#g21853">
+			<path id="rect21848-8-5" inkscape:connector-curvature="0" class="st10" d="M-32,190.4c-1.1,0-2,0.9-2,2v10c0,1.1,0.9,2,2,2h10
+				c1.1,0,2-0.9,2-2v-10c0-1.1-0.9-2-2-2H-32z M-32,191.4h10c0.6,0,1,0.4,1,1v10c0,0.6-0.4,1-1,1h-10c-0.6,0-1-0.4-1-1v-10
+				C-33,191.8-32.6,191.4-32,191.4z"/>
+			<g id="scdsdcd-9-8" transform="translate(0,-30)" inkscape:label="#g14325">
+				<g id="g15812-6-6-1-1-4" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+					<g id="g5489-2-9-6-8-8-7-8" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+						<g id="g5428-8-1-4-0-0-0-6">
+						</g>
+					</g>
+				</g>
+				<rect id="rect13523-9-4" x="-35" y="219.4" class="st4" width="16" height="16"/>
+				<g id="g5400-7-2">
+					<path id="rect5147-9-1-5-7-6-5-8" class="st5" d="M-32,221.4h10c0.6,0,1,0.4,1,1v10c0,0.6-0.4,1-1,1h-10c-0.6,0-1-0.4-1-1v-10
+						C-33,221.8-32.6,221.4-32,221.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="checkbox-checked-insensitive" transform="translate(294,-282.00013)" inkscape:label="#g10758" class="st11">
+		<g id="checkbox-unchecked-5-9-0-4" transform="translate(19,0)" inkscape:label="#g22047">
+			<g id="sdsd-7-5-4-3" inkscape:label="#g21853">
+				<g id="scdsdcd-5-1-0-5" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-5-1-7-1" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-53-16-3-9" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-4-1-2-7">
+							</g>
+						</g>
+					</g>
+					<rect id="rect13523-7-6-5" x="-35" y="219.4" class="st4" width="16" height="16"/>
+					<g id="g5400-6-7-8-7">
+						<path id="rect5147-9-1-5-7-6-7-1-7-7" class="st15" d="M-32,220.4h10c1.1,0,2,0.9,2,2v10c0,1.1-0.9,2-2,2h-10
+							c-1.1,0-2-0.9-2-2v-10C-34,221.3-33.1,220.4-32,220.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="checkbox-checked-dark-7-4-0-9" transform="translate(36,-1036)" inkscape:label="Ebene 1">
+			<g id="g3981-6-4-97-4-3" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)" class="st13">
+			</g>
+			<g id="g4049-2-3-6-5" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
+				<g id="g4056-7-07-3-8" transform="translate(12.374375,11.531233)">
+					<g id="g3981-0-3-0-5" transform="translate(-3,-4.9999826)">
+						<path id="rect3977-39-1-5-5" inkscape:connector-curvature="0" class="st5" d="M107.9,1197.8v6h-3v2h3l2,0l0-2l0-6
+							L107.9,1197.8z"/>
+					</g>
+					<rect id="rect4047-81-1-5-0" x="101.9" y="1198.8" class="st14" width="3" height="1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="radio-unchecked-insensitive" transform="translate(201.00426,-266.00013)" inkscape:label="#g10975" class="st11">
+		<path id="path10940-0-7" inkscape:connector-curvature="0" class="st10" d="M46,197.4c0,3.9,3.1,7,7,7s7-3.1,7-7c0-3.9-3.1-7-7-7
+			S46,193.5,46,197.4z M47,197.4c0-3.3,2.7-6,6-6s6,2.7,6,6s-2.7,6-6,6S47,200.7,47,197.4z"/>
+		<g id="g10964-62-9">
+			<g id="radio-unchecked2-8-1-4" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+				<rect id="rect14348-4-2-0" x="151.4" y="464" class="st4" width="17.1" height="17.1"/>
+				<g id="g7025-6-0">
+					<g id="g5489-2-9-3-77-9" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+						<g id="g5428-8-1-7-58-8">
+							<path id="rect5147-9-1-7-5-2-6" class="st5" d="M-42.8,519L-42.8,519c7,0,12.6,5.5,12.6,12.4l0,0c0,6.8-5.6,12.4-12.6,12.4
+								l0,0c-7,0-12.6-5.5-12.6-12.4l0,0C-55.4,524.6-49.8,519-42.8,519z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="radio-checked-insensitive" transform="translate(214,-266.00013)" inkscape:label="#g11094" class="st11">
+		<g id="radio-unchecked-2-8-9-6" transform="translate(19.004264,-4.6992607e-6)" inkscape:label="#g10975">
+			<g id="g10964-6-4-7-3">
+				
+					<g id="radio-unchecked2-0-6-8-1" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+					<rect id="rect14348-4-8-9-5" x="151.4" y="464" class="st4" width="17.1" height="17.1"/>
+					<g id="g7025-09-1-6-4">
+						<g id="g5489-2-9-3-2-71-7-7" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+							<g id="g5428-8-1-7-5-8-3-8">
+								<path id="rect5147-9-1-7-2-0-3-1" class="st15" d="M-42.9,517L-42.9,517c8.1,0,14.7,6.5,14.7,14.5l0,0
+									c0,8-6.6,14.5-14.7,14.5l0,0c-8.1,0-14.7-6.5-14.7-14.5l0,0C-57.5,523.4-51,517-42.9,517z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="use15101-5-7-2-2-1" class="st5" d="M72,195.4L72,195.4c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2h0c-1.1,0-2-0.9-2-2l0,0
+			C70,196.3,70.9,195.4,72,195.4z"/>
+	</g>
+	<g id="sjhgfjsgf-2" transform="matrix(1.9947791,0,0,1.9939719,403.25667,278.01933)" inkscape:label="#g10801">
+	</g>
+	<g id="entry-bg" transform="translate(-1,61.999998)" inkscape:label="#g9335">
+		<rect id="rect9321-3" x="-55" y="-90.6" class="st1" width="26" height="24"/>
+		<path id="rect7903-93" class="st5" d="M-51.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19c-1.4,0-2.5-1.1-2.5-2.5
+			v-17C-54-88.5-52.9-89.6-51.5-89.6z"/>
+		<path id="rect7903-7-31" inkscape:transform-center-x="-5.0639158" inkscape:transform-center-y="0.42353254" class="st3" d="
+			M-51.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-54.5-88.8-53.2-90.1-51.5-90.1z"/>
+	</g>
+	<g id="entry-active-bg" transform="translate(-1,61.999998)" inkscape:label="#g9350">
+		<rect id="rect9321-0-2" x="-21" y="-90.6" class="st1" width="26" height="24"/>
+		<path id="rect7903-2-7" class="st5" d="M-17.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5v-17C-20-88.5-18.9-89.6-17.5-89.6z"/>
+		<path id="rect7903-7-3-7" inkscape:transform-center-x="-5.0639174" inkscape:transform-center-y="0.42353254" class="st16" d="
+			M-17.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-20.5-88.8-19.2-90.1-17.5-90.1z"/>
+	</g>
+	<g id="entry-disabled-bg" transform="translate(-1,61.999998)" inkscape:label="#g9365">
+		<g id="g4303">
+			<rect id="rect9321-2-23" x="13" y="-90.6" class="st1" width="26" height="24"/>
+			<path id="rect7903-6-8" class="st6" d="M16.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+				c-1.4,0-2.5-1.1-2.5-2.5v-17C14-88.5,15.1-89.6,16.5-89.6z"/>
+			<path id="rect7903-7-2-7" inkscape:transform-center-x="-5.0639158" inkscape:transform-center-y="0.42353316" class="st7" d="
+				M16.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C13.5-88.8,14.8-90.1,16.5-90.1z"/>
+		</g>
+	</g>
+	<g id="entry-notebook" transform="translate(-1,93.999999)" inkscape:label="#g9335">
+		<rect id="rect5076-9" x="-55" y="-90.6" class="st5" width="26" height="24"/>
+		<path id="rect7903-7-1" inkscape:transform-center-x="-5.0639158" inkscape:transform-center-y="0.42353254" class="st3" d="
+			M-51.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-54.5-88.8-53.2-90.1-51.5-90.1z"/>
+		<path id="rect7903-93-3" class="st5" d="M-51.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5v-17C-54-88.5-52.9-89.6-51.5-89.6z"/>
+	</g>
+	<g id="entry-active-notebook" transform="translate(-1,93.999999)" inkscape:label="#g9350">
+		<rect id="rect5076-8" x="-21" y="-90.6" class="st5" width="26" height="24"/>
+		<path id="rect7903-7-3-4" inkscape:transform-center-x="-5.0639174" inkscape:transform-center-y="0.42353254" class="st16" d="
+			M-17.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-20.5-88.8-19.2-90.1-17.5-90.1z"/>
+		<path id="rect7903-93-8" class="st5" d="M-17.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5v-17C-20-88.5-18.9-89.6-17.5-89.6z"/>
+	</g>
+	<g id="entry-disabled-notebook" transform="translate(-1,93.999999)" inkscape:label="#g9365">
+		<g id="g4303-7">
+			<rect id="rect5076-75" x="13" y="-90.6" class="st5" width="26" height="24"/>
+			<path id="rect7903-6-5" class="st6" d="M16.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+				c-1.4,0-2.5-1.1-2.5-2.5v-17C14-88.5,15.1-89.6,16.5-89.6z"/>
+			<path id="rect7903-7-2-3" inkscape:transform-center-x="-5.0639158" inkscape:transform-center-y="0.42353254" class="st17" d="
+				M16.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C13.5-88.8,14.8-90.1,16.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-56" y="77.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry" transform="translate(-1,169)" inkscape:label="#g9335" class="st18">
+			<rect id="rect5025-2" x="-55" y="-90.6" class="st1" width="26" height="24"/>
+			<path id="rect7903-6-7-3" class="st5" d="M-53-89.6h21c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-21c-0.6,0-1-0.4-1-1v-20
+				C-54-89.2-53.6-89.6-53-89.6z"/>
+			<path id="rect7903-7-8-6" inkscape:transform-center-x="-4.8613592" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M-51.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C-54.5-88.8-53.2-90.1-51.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="-31" y="77.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-focus" transform="translate(-10,169)" inkscape:label="#g9350" class="st19">
+			<rect id="rect5025-7" x="-21" y="-90.6" class="st1" width="26" height="24"/>
+			<path id="rect7903-6-7-9" class="st5" d="M-19-89.6H2c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-21c-0.6,0-1-0.4-1-1v-20
+				C-20-89.2-19.6-89.6-19-89.6z"/>
+			<path id="rect7903-7-3-1" inkscape:transform-center-x="-4.8613611" inkscape:transform-center-y="0.42353254" class="st16" d="
+				M-17.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C-20.5-88.8-19.2-90.1-17.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="-6" y="77.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-insensitive" transform="translate(-19,169)" inkscape:label="#g9365" class="st20">
+			<g id="g4303-70">
+				<rect id="rect5025-5" x="13" y="-90.6" class="st1" width="26" height="24"/>
+				<path id="rect7903-6-7" class="st6" d="M15-89.6h21c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H15c-0.6,0-1-0.4-1-1v-20
+					C14-89.2,14.4-89.6,15-89.6z"/>
+				<path id="rect7903-7-2-0" inkscape:transform-center-x="-4.8613592" inkscape:transform-center-y="0.42353254" class="st7" d="
+					M16.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C13.5-88.8,14.8-90.1,16.5-90.1z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_7_" x="-56" y="107.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-notebook" transform="translate(-1,199)" inkscape:label="#g9335" class="st21">
+			<rect id="rect5025-4" x="-55" y="-90.6" class="st5" width="26" height="24"/>
+			<path id="rect7903-6-7-3-9" class="st5" d="M-53-89.6h21c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-21c-0.6,0-1-0.4-1-1v-20
+				C-54-89.2-53.6-89.6-53-89.6z"/>
+			<path id="rect7903-7-8-9" inkscape:transform-center-x="-4.8613592" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M-51.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C-54.5-88.8-53.2-90.1-51.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_9_" x="-31" y="107.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-focus-notebook" transform="translate(-10,199)" inkscape:label="#g9350" class="st22">
+			<rect id="rect5025-0" x="-21" y="-90.6" class="st5" width="26" height="24"/>
+			<path id="rect7903-6-7-3-8" class="st5" d="M-19-89.6H2c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-21c-0.6,0-1-0.4-1-1v-20
+				C-20-89.2-19.6-89.6-19-89.6z"/>
+			
+				<path id="rect7903-7-3-1-0" inkscape:transform-center-x="-4.8613611" inkscape:transform-center-y="0.42353254" class="st16" d="
+				M-17.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C-20.5-88.8-19.2-90.1-17.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_11_" x="-6" y="107.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-insensitive-notebook" transform="translate(-19,199)" inkscape:label="#g9365" class="st23">
+			<g id="g4303-70-8">
+				<rect id="rect5025-65" x="13" y="-90.6" class="st5" width="26" height="24"/>
+				<path id="rect7903-6-7-4" class="st6" d="M15-89.6h21c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H15c-0.6,0-1-0.4-1-1v-20
+					C14-89.2,14.4-89.6,15-89.6z"/>
+				
+					<path id="rect7903-7-2-0-8" inkscape:transform-center-x="-4.8613592" inkscape:transform-center-y="0.42353254" class="st17" d="
+					M16.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C13.5-88.8,14.8-90.1,16.5-90.1z"/>
+			</g>
+		</g>
+	</g>
+	<g id="combo-entry-button" transform="translate(13,140)" inkscape:label="#g4701">
+		<g>
+			<defs>
+				<rect id="SVGID_13_" x="-68" y="-1.6" width="21" height="26"/>
+			</defs>
+			<clipPath id="SVGID_14_">
+				<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="button-2" transform="translate(-18,90.000001)" inkscape:label="#g9335" class="st24">
+				<path id="rect7903-9" class="st2" d="M-52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+					C-53-89.2-52.6-89.6-52-89.6z"/>
+				<path id="rect7903-7-37" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+					M-51.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-53.5-89.2-52.6-90.1-51.5-90.1z"/>
+				<rect id="rect9321-60" x="-55" y="-90.6" class="st4" width="26" height="24"/>
+			</g>
+		</g>
+		<rect id="rect4699" x="-68" y="0.4" class="st25" width="1" height="22"/>
+	</g>
+	<g id="combo-entry-button-insensitive" transform="translate(-31,140)" inkscape:label="#g4724">
+		<g>
+			<defs>
+				<rect id="SVGID_15_" x="0" y="-1.6" width="21" height="26"/>
+			</defs>
+			<clipPath id="SVGID_16_">
+				<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="button-insensitive-4" transform="translate(-18,90.000001)" inkscape:label="#g9365" class="st26">
+				<path id="rect7903-6-9" class="st6" d="M16-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H16c-0.6,0-1-0.4-1-1v-20
+					C15-89.2,15.4-89.6,16-89.6z"/>
+				<path id="rect7903-7-2-4" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+					M16.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C14.5-89.2,15.4-90.1,16.5-90.1z"/>
+				<rect id="rect9321-09-5" x="13" y="-90.6" class="st4" width="26" height="24"/>
+			</g>
+		</g>
+		<rect id="rect4699-1" x="0" y="0.4" class="st27" width="1" height="22"/>
+	</g>
+	<g id="combo-entry-button-active" transform="translate(-41,140)" inkscape:label="#g4738">
+		<g>
+			<defs>
+				<rect id="SVGID_17_" x="34" y="-1.6" width="21" height="26"/>
+			</defs>
+			<clipPath id="SVGID_18_">
+				<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="button-active-4" transform="translate(-18,90.000001)" inkscape:label="#g9380" class="st28">
+				<path id="rect7903-21-8" class="st8" d="M50-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H50c-0.6,0-1-0.4-1-1v-20
+					C49-89.2,49.4-89.6,50-89.6z"/>
+				
+					<path id="rect7903-7-22-4" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="-0.42353254" class="st9" d="
+					M50.5-67.1h19c1.1,0,2-0.9,2-2v-19c0-1.1-0.9-2-2-2h-19c-1.1,0-2,0.9-2,2v19C48.5-68,49.4-67.1,50.5-67.1z"/>
+				<rect id="rect9321-2-0" x="47" y="-90.6" class="st4" width="26" height="24"/>
+			</g>
+		</g>
+		<rect id="rect4699-8" x="34" y="0.4" class="st29" width="1" height="22"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_19_" x="76" y="77.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_20_">
+			<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-rtl" transform="matrix(-1,0,0,1,146,169)" inkscape:label="#g9335" class="st30">
+			<rect id="rect5025-3" x="49" y="-66.6" class="st1" width="26" height="-24"/>
+			<path id="rect7903-6-7-3-1" class="st5" d="M72-89.6H51c-0.6,0-1,0.4-1,1v20c0,0.6,0.4,1,1,1h21c0.6,0,1-0.4,1-1v-20
+				C73-89.2,72.6-89.6,72-89.6z"/>
+			<path id="rect7903-7-8-76" inkscape:transform-center-x="-4.8613591" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M52.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C49.5-88.8,50.8-90.1,52.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_21_" x="51" y="77.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_22_">
+			<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-focus-rtl" transform="matrix(-1,0,0,1,155,169)" inkscape:label="#g9350" class="st31">
+			<rect id="rect5025-55" x="83" y="-66.6" class="st1" width="26" height="-24"/>
+			<path id="rect7903-6-7-3-6" class="st5" d="M106-89.6H85c-0.6,0-1,0.4-1,1v20c0,0.6,0.4,1,1,1h21c0.6,0,1-0.4,1-1v-20
+				C107-89.2,106.6-89.6,106-89.6z"/>
+			
+				<path id="rect7903-7-3-1-2" inkscape:transform-center-x="-4.8613572" inkscape:transform-center-y="0.42353254" class="st16" d="
+				M86.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C83.5-88.8,84.8-90.1,86.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_23_" x="26" y="77.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_24_">
+			<use xlink:href="#SVGID_23_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-insensitive-rtl" transform="matrix(-1,0,0,1,164,169)" inkscape:label="#g9365" class="st32">
+			<g id="g4303-70-0">
+				<rect id="rect5025-6" x="117" y="-66.6" class="st1" width="26" height="-24"/>
+				<path id="rect7903-6-7-5" class="st6" d="M119-89.6h21c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-21c-0.6,0-1-0.4-1-1v-20
+					C118-89.2,118.4-89.6,119-89.6z"/>
+				
+					<path id="rect7903-7-2-0-5" inkscape:transform-center-x="-4.8613591" inkscape:transform-center-y="0.42353254" class="st7" d="
+					M120.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C117.5-88.8,118.8-90.1,120.5-90.1z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_25_" x="76" y="107.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_26_">
+			<use xlink:href="#SVGID_25_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-notebook-rtl" transform="matrix(-1,0,0,1,146,199)" inkscape:label="#g9335" class="st33">
+			<rect id="rect5025-51" x="49" y="-66.6" class="st5" width="26" height="-24"/>
+			<path id="rect7903-6-7-3-81" class="st5" d="M72-89.6H51c-0.6,0-1,0.4-1,1v20c0,0.6,0.4,1,1,1h21c0.6,0,1-0.4,1-1v-20
+				C73-89.2,72.6-89.6,72-89.6z"/>
+			<path id="rect7903-7-8-9-1" inkscape:transform-center-x="-4.8613591" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M52.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C49.5-88.8,50.8-90.1,52.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_27_" x="51" y="107.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_28_">
+			<use xlink:href="#SVGID_27_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-focus-notebook-rtl" transform="matrix(-1,0,0,1,155,199)" inkscape:label="#g9350" class="st34">
+			<rect id="rect5025-8" x="83" y="-66.6" class="st5" width="26" height="-24"/>
+			<path id="rect7903-6-7-3-66" class="st5" d="M106-89.6H85c-0.6,0-1,0.4-1,1v20c0,0.6,0.4,1,1,1h21c0.6,0,1-0.4,1-1v-20
+				C107-89.2,106.6-89.6,106-89.6z"/>
+			
+				<path id="rect7903-7-3-1-0-4" inkscape:transform-center-x="-4.8613572" inkscape:transform-center-y="0.42353254" class="st16" d="
+				M86.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C83.5-88.8,84.8-90.1,86.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_29_" x="26" y="107.4" width="21" height="26"/>
+		</defs>
+		<clipPath id="SVGID_30_">
+			<use xlink:href="#SVGID_29_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="combo-entry-insensitive-notebook-rtl" transform="matrix(-1,0,0,1,164,199)" inkscape:label="#g9365" class="st35">
+			<g id="g4303-70-8-0">
+				<rect id="rect5025-9" x="117" y="-66.6" class="st5" width="26" height="-24"/>
+				<path id="rect7903-6-7-4-7" class="st6" d="M119-89.6h21c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-21c-0.6,0-1-0.4-1-1v-20
+					C118-89.2,118.4-89.6,119-89.6z"/>
+				
+					<path id="rect7903-7-2-0-8-2" inkscape:transform-center-x="-4.8613591" inkscape:transform-center-y="0.42353254" class="st17" d="
+					M120.5-90.1h18c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3v-17C117.5-88.8,118.8-90.1,120.5-90.1z"/>
+			</g>
+		</g>
+	</g>
+	<g id="combo-entry-button-rtl" transform="matrix(-1,0,0,1,130,140)" inkscape:label="#g4701-4">
+		<g>
+			<defs>
+				<rect id="SVGID_31_" x="36" y="-1.6" width="21" height="26"/>
+			</defs>
+			<clipPath id="SVGID_32_">
+				<use xlink:href="#SVGID_31_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="button-9" transform="translate(-18,90.000001)" inkscape:label="#g9335" class="st36">
+				<path id="rect7903-9-9" class="st37" d="M52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H52c-0.6,0-1-0.4-1-1v-20
+					C51-89.2,51.4-89.6,52-89.6z"/>
+				<path id="rect7903-7-37-2" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+					M52.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C50.5-89.2,51.4-90.1,52.5-90.1z"/>
+				<rect id="rect9321-60-1" x="49" y="-66.6" class="st4" width="26" height="-24"/>
+			</g>
+		</g>
+		<rect id="rect4699-86" x="36" y="22.4" class="st38" width="1" height="-22"/>
+	</g>
+	<g id="combo-entry-button-insensitive-rtl" transform="matrix(-1,0,0,1,174,140)" inkscape:label="#g4724-2">
+		<g>
+			<defs>
+				<rect id="SVGID_33_" x="104" y="-1.6" width="21" height="26"/>
+			</defs>
+			<clipPath id="SVGID_34_">
+				<use xlink:href="#SVGID_33_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="button-insensitive-7" transform="translate(-18,90.000001)" inkscape:label="#g9365" class="st39">
+				<path id="rect7903-6-9-6" class="st6" d="M120-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+					C119-89.2,119.4-89.6,120-89.6z"/>
+				
+					<path id="rect7903-7-2-4-9" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+					M120.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C118.5-89.2,119.4-90.1,120.5-90.1z"/>
+				<rect id="rect9321-09-0" x="117" y="-66.6" class="st4" width="26" height="-24"/>
+			</g>
+		</g>
+		<rect id="rect4699-1-6" x="104" y="22.4" class="st27" width="1" height="-22"/>
+	</g>
+	<g id="combo-entry-button-active-rtl" transform="matrix(-1,0,0,1,184,140)" inkscape:label="#g4738-7">
+		<g>
+			<defs>
+				<rect id="SVGID_35_" x="138" y="-1.6" width="21" height="26"/>
+			</defs>
+			<clipPath id="SVGID_36_">
+				<use xlink:href="#SVGID_35_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="button-active-5" transform="translate(-18,90.000001)" inkscape:label="#g9380" class="st40">
+				<path id="rect7903-21-5" class="st8" d="M154.5-89.6h19c0.8,0,1.5,0.7,1.5,1.5v19c0,0.8-0.7,1.5-1.5,1.5h-19
+					c-0.8,0-1.5-0.7-1.5-1.5v-19C153-89,153.7-89.6,154.5-89.6z"/>
+				
+					<path id="rect7903-7-22-0" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="-0.42353254" class="st9" d="
+					M154.5-67.1h19c1.1,0,2-0.9,2-2v-19c0-1.1-0.9-2-2-2h-19c-1.1,0-2,0.9-2,2v19C152.5-68,153.4-67.1,154.5-67.1z"/>
+				<rect id="rect9321-2-0-2" x="151" y="-66.6" class="st4" width="26" height="-24"/>
+			</g>
+		</g>
+		<rect id="rect4699-8-8" x="138" y="22.4" class="st29" width="1" height="-22"/>
+	</g>
+	<g id="sjhgfjsgf-8" transform="matrix(1.9947791,0,0,1.9939719,386.38167,456.84433)" inkscape:label="#g10801">
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_37_" x="-56" y="199.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_38_">
+			<use xlink:href="#SVGID_37_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="down-background" transform="translate(-17,278)" inkscape:label="#g9335" class="st41">
+			<rect id="rect9321-5" x="-55" y="-91.6" class="st4" width="26" height="25"/>
+			<path id="rect7903-20" class="st5" d="M-52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+				C-53-89.2-52.6-89.6-52-89.6z"/>
+			<path id="rect7903-7-7" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M-51.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-53.5-89.2-52.6-90.1-51.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_39_" x="-56" y="185.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_40_">
+			<use xlink:href="#SVGID_39_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="up-background" transform="translate(-17,277)" inkscape:label="#g9335" class="st42">
+			<rect id="rect9321-7" x="-55" y="-90.6" class="st4" width="26" height="25"/>
+			<path id="rect7903-71" class="st5" d="M-52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+				C-53-89.2-52.6-89.6-52-89.6z"/>
+			<path id="rect7903-7-3-05" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M-51.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-53.5-89.2-52.6-90.1-51.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_41_" x="-40" y="199.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_42_">
+			<use xlink:href="#SVGID_41_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="down-background-disable" transform="translate(-1,278)" inkscape:label="#g9335" class="st43">
+			<rect id="rect9321-8" x="-55" y="-91.6" class="st4" width="26" height="25"/>
+			<path id="rect7903-61" class="st6" d="M-52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+				C-53-89.2-52.6-89.6-52-89.6z"/>
+			<path id="rect7903-7-1-7" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+				M-51.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-53.5-89.2-52.6-90.1-51.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_43_" x="-40" y="185.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_44_">
+			<use xlink:href="#SVGID_43_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="up-background-disable" transform="translate(-1,277)" inkscape:label="#g9335" class="st44">
+			<rect id="rect9321-7-0" x="-55" y="-90.6" class="st4" width="26" height="25"/>
+			<path id="rect7903-71-1" class="st6" d="M-52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1h-20c-0.6,0-1-0.4-1-1v-20
+				C-53-89.2-52.6-89.6-52-89.6z"/>
+			<path id="rect7903-7-3-9" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+				M-51.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C-53.5-89.2-52.6-90.1-51.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_45_" x="-7" y="199.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_46_">
+			<use xlink:href="#SVGID_45_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="down-background-rtl" transform="matrix(-1,0,0,1,68,278)" inkscape:label="#g9335" class="st45">
+			<rect id="rect9321-88" x="49" y="-66.6" class="st4" width="26" height="-25"/>
+			<path id="rect7903-8" class="st5" d="M52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H52c-0.6,0-1-0.4-1-1v-20
+				C51-89.2,51.4-89.6,52-89.6z"/>
+			<path id="rect7903-7-18" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M52.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C50.5-89.2,51.4-90.1,52.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_47_" x="-7" y="185.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_48_">
+			<use xlink:href="#SVGID_47_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="up-background-rtl" transform="matrix(-1,0,0,1,68,277)" inkscape:label="#g9335" class="st46">
+			<rect id="rect9321-7-8" x="49" y="-65.6" class="st4" width="26" height="-25"/>
+			<path id="rect7903-71-2" class="st5" d="M52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H52c-0.6,0-1-0.4-1-1v-20
+				C51-89.2,51.4-89.6,52-89.6z"/>
+			<path id="rect7903-7-3-0" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st3" d="
+				M52.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C50.5-89.2,51.4-90.1,52.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_49_" x="-23" y="199.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_50_">
+			<use xlink:href="#SVGID_49_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="down-background-disable-rtl" transform="matrix(-1,0,0,1,52,278)" inkscape:label="#g9335" class="st47">
+			<rect id="rect9321-8-6" x="49" y="-66.6" class="st4" width="26" height="-25"/>
+			<path id="rect7903-61-9" class="st6" d="M53-89.6h18c1.1,0,2,0.9,2,2v18c0,1.1-0.9,2-2,2H53c-1.1,0-2-0.9-2-2v-18
+				C51-88.7,51.9-89.6,53-89.6z"/>
+			<path id="rect7903-7-1-1" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+				M52.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C50.5-89.2,51.4-90.1,52.5-90.1z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_51_" x="-23" y="185.4" width="10" height="13"/>
+		</defs>
+		<clipPath id="SVGID_52_">
+			<use xlink:href="#SVGID_51_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="up-background-disable-rtl" transform="matrix(-1,0,0,1,52,277)" inkscape:label="#g9335" class="st48">
+			<rect id="rect9321-7-0-4" x="49" y="-65.6" class="st4" width="26" height="-25"/>
+			<path id="rect7903-71-1-3" class="st6" d="M52-89.6h20c0.6,0,1,0.4,1,1v20c0,0.6-0.4,1-1,1H52c-0.6,0-1-0.4-1-1v-20
+				C51-89.2,51.4-89.6,52-89.6z"/>
+			<path id="rect7903-7-3-9-4" inkscape:transform-center-x="-4.6588025" inkscape:transform-center-y="0.42353254" class="st7" d="
+				M52.5-90.1h19c1.1,0,2,0.9,2,2v19c0,1.1-0.9,2-2,2h-19c-1.1,0-2-0.9-2-2v-19C50.5-89.2,51.4-90.1,52.5-90.1z"/>
+		</g>
+	</g>
+	<g id="arrow-down" transform="matrix(0.74646448,0,0,0.80750136,-5.4626788,40.151617)" inkscape:label="#g4159">
+		<g id="layer9" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393" inkscape:connector-curvature="0" class="st49" d="M114.1,985.1c-0.5,0.1-0.9,0.6-0.8,1.2
+				c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4s-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+				C114.8,985.1,114.5,985,114.1,985.1z"/>
+			<path id="rect8399" class="st49" d="M125.3,985.6L125.3,985.6c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C125.1,986.1,125.3,985.8,125.3,985.6z"/>
+			<path id="rect8403" class="st49" d="M114.3,985.6L114.3,985.6c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C114.1,986.1,114.3,985.8,114.3,985.6z"/>
+		</g>
+	</g>
+	<g id="arrow-down-insens" transform="matrix(0.74646448,0,0,0.80750136,5.5373212,40.151617)" inkscape:label="#g4159-1">
+		<g id="layer9-4" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-5" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-2" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-8" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-1" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-1" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-2" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-9" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-3" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-9" inkscape:connector-curvature="0" class="st50" d="M114.3,985c-0.1,0-0.1,0-0.2,0c0,0-0.1,0-0.1,0
+				c-0.1,0-0.1,0-0.2,0c-0.3,0-0.5,0.2-0.5,0.5c0,0,0,0.1,0,0.1c-0.1,0.4,0,0.8,0.3,1.1l5,5l0.7,0.7l0.7-0.7l5-5
+				c0.3-0.3,0.4-0.7,0.2-1c0-0.1,0-0.1,0-0.2c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.8,0-1,0.2l-4.3,4.3l-4.3-4.3
+				C114.9,985.1,114.6,985,114.3,985z"/>
+		</g>
+	</g>
+	<g id="arrow-down-prelight" transform="matrix(0.7464645,0,0,0.80750136,16.537321,40.151617)" inkscape:label="#g4159-7">
+		<g id="layer9-6" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-1" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-5" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-1" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-3" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-6" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-9" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-1" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-8" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-0" inkscape:connector-curvature="0" class="st51" d="M114.3,985c-0.1,0-0.1,0-0.2,0c0,0-0.1,0-0.1,0
+				c-0.1,0-0.1,0-0.2,0c-0.3,0-0.5,0.2-0.5,0.5c0,0,0,0.1,0,0.1c-0.1,0.4,0,0.8,0.3,1.1l5,5l0.7,0.7l0.7-0.7l5-5
+				c0.3-0.3,0.4-0.7,0.2-1c0-0.1,0-0.1,0-0.2c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.8,0-1,0.2l-4.3,4.3l-4.3-4.3
+				C114.9,985.1,114.6,985,114.3,985z"/>
+		</g>
+	</g>
+	<g id="arrow-left" transform="matrix(0,0.74646448,-0.80750136,0,6.2105624,49.8995)" inkscape:label="#g4159-9">
+		<g id="layer9-0" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09" inkscape:connector-curvature="0" class="st49" d="M437,815.4c-0.5,0.1-0.9,0.6-0.8,1.2
+				c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+				C437.7,815.4,437.3,815.3,437,815.4z"/>
+			<path id="rect8399-37" class="st49" d="M448.2,815.9L448.2,815.9c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C448,816.4,448.2,816.2,448.2,815.9z"/>
+			<path id="rect8403-7" class="st49" d="M437.2,815.9L437.2,815.9c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C437,816.4,437.2,816.2,437.2,815.9z"/>
+		</g>
+	</g>
+	
+		<g id="arrow-left-insens" transform="matrix(0,0.74646448,-0.80750136,0,17.210562,49.8995)" inkscape:label="#g4159-9-2" class="st11">
+		<g id="layer9-0-5" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55-1" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0-7" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80-7" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8-4" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2-5" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0-8" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14-7" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2-6" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09-9" inkscape:connector-curvature="0" class="st49" d="M436.2,816.4c0,0.3,0.1,0.5,0.3,0.7l5,5l0.7,0.7
+				l0.7-0.7l5-5c0.3-0.3,0.4-0.7,0.2-1c0-0.1,0-0.1,0-0.2c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.8,0-1,0.2l-4.3,4.3
+				l-4.3-4.3c-0.2-0.3-0.6-0.4-0.9-0.3c0,0-0.1,0-0.1,0c-0.1,0-0.1,0-0.2,0c-0.3,0-0.5,0.2-0.5,0.5c0,0,0,0.1,0,0.1
+				C436.2,816.1,436.2,816.3,436.2,816.4z"/>
+		</g>
+	</g>
+	<g id="arrow-left-prelight" transform="matrix(0,0.74646448,-0.80750136,0,28.210562,49.8995)" inkscape:label="#g4159-9-2-8">
+		<g id="layer9-0-5-2" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55-1-8" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0-7-5" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80-7-5" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8-4-6" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2-5-5" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0-8-3" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14-7-9" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2-6-7" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09-9-4" inkscape:connector-curvature="0" class="st51" d="M436.2,816.4c0,0.3,0.1,0.5,0.3,0.7l5,5l0.7,0.7
+				l0.7-0.7l5-5c0.3-0.3,0.4-0.7,0.2-1c0-0.1,0-0.1,0-0.2c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.8,0-1,0.2l-4.3,4.3
+				l-4.3-4.3c-0.2-0.3-0.6-0.4-0.9-0.3c0,0-0.1,0-0.1,0c-0.1,0-0.1,0-0.2,0c-0.3,0-0.5,0.2-0.5,0.5c0,0,0,0.1,0,0.1
+				C436.2,816.1,436.2,816.3,436.2,816.4z"/>
+		</g>
+	</g>
+	<g id="arrow-right-prelight" transform="matrix(0,0.74646448,0.80750136,0,15.789437,60.8995)" inkscape:label="#g4159-9-7">
+		<g id="layer9-0-1" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55-5" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0-0" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80-76" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8-1" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2-4" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0-9" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14-3" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2-1" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09-3" inkscape:connector-curvature="0" class="st51" d="M436.2,687.6c0-0.1,0-0.2,0.1-0.4c0,0,0-0.1,0-0.1
+				c0-0.3,0.2-0.5,0.5-0.5c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.3-0.1,0.7,0,0.9,0.3l4.3,4.3l4.3-4.3c0.3-0.3,0.7-0.4,1-0.2
+				c0.1,0,0.1,0,0.2,0c0.3,0,0.5,0.2,0.5,0.5c0,0.1,0,0.1,0,0.2c0.1,0.4,0,0.8-0.2,1l-5,5l-0.7,0.7l-0.7-0.7l-5-5
+				C436.3,688.1,436.2,687.9,436.2,687.6z"/>
+		</g>
+	</g>
+	
+		<g id="arrow-right-insens" transform="matrix(0,0.74646448,0.80750136,0,4.7894382,60.8995)" inkscape:label="#g4159-9-2-4" class="st11">
+		<g id="layer9-0-5-0" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55-1-3" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0-7-8" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80-7-1" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8-4-1" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2-5-8" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0-8-5" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14-7-2" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2-6-6" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09-9-8" inkscape:connector-curvature="0" class="st49" d="M436.2,687.6c0-0.1,0-0.2,0.1-0.4c0,0,0-0.1,0-0.1
+				c0-0.3,0.2-0.5,0.5-0.5c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.3-0.1,0.7,0,0.9,0.3l4.3,4.3l4.3-4.3c0.3-0.3,0.7-0.4,1-0.2
+				c0.1,0,0.1,0,0.2,0c0.3,0,0.5,0.2,0.5,0.5c0,0.1,0,0.1,0,0.2c0.1,0.4,0,0.8-0.2,1l-5,5l-0.7,0.7l-0.7-0.7l-5-5
+				C436.3,688.1,436.2,687.9,436.2,687.6z"/>
+		</g>
+	</g>
+	<g id="arrow-right" transform="matrix(0,0.74646448,0.80750136,0,-6.2105618,60.8995)" inkscape:label="#g4159-9-2-8-4">
+		<g id="layer9-0-5-2-9" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55-1-8-9" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0-7-5-8" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80-7-5-9" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8-4-6-0" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2-5-5-5" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0-8-3-9" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14-7-9-9" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2-6-7-1" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09-9-4-3" inkscape:connector-curvature="0" class="st49" d="M437,686.6c-0.5,0.1-0.9,0.6-0.8,1.2
+				c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+				C437.7,686.6,437.3,686.5,437,686.6z"/>
+			<path id="rect8399-37-0-5-5" class="st49" d="M448.2,687.1L448.2,687.1c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C448,687.6,448.2,687.4,448.2,687.1z"/>
+			<path id="rect8403-7-0-1-2" class="st49" d="M437.2,687.1L437.2,687.1c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C437,687.6,437.2,687.4,437.2,687.1z"/>
+		</g>
+	</g>
+	<g id="arrow-up" transform="matrix(0.74646448,0,0,-0.80750136,-5.4626788,82.572742)" inkscape:label="#g4159-6">
+		<g id="layer9-66" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-8" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-1" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-2" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-15" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-3" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-26" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-10" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-80" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-05" inkscape:connector-curvature="0" class="st49" d="M114.1,516.9c-0.5,0.1-0.9,0.6-0.8,1.2
+				c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4s-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+				C114.8,517,114.5,516.9,114.1,516.9z"/>
+			<path id="rect8399-7" class="st49" d="M125.3,517.4L125.3,517.4c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C125.1,517.9,125.3,517.7,125.3,517.4z"/>
+			<path id="rect8403-47" class="st49" d="M114.3,517.4L114.3,517.4c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C114.1,517.9,114.3,517.7,114.3,517.4z"/>
+		</g>
+	</g>
+	<g id="arrow-up-insens" transform="matrix(0.74646448,0,0,-0.80750136,5.537321,82.572742)" inkscape:label="#g4159-1-8">
+		<g id="layer9-4-4" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-5-6" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-2-0" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-8-1" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-1-7" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-1-1" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-2-4" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-9-0" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-3-6" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-9-7" inkscape:connector-curvature="0" class="st50" d="M119.3,524.4l-0.7-0.7l-5-5c-0.3-0.3-0.4-0.7-0.3-1.1
+				c0,0,0-0.1,0-0.1c0-0.3,0.2-0.5,0.5-0.5c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.3-0.1,0.7,0,0.9,0.3l4.3,4.3l4.3-4.3
+				c0.3-0.3,0.7-0.4,1-0.2c0.1,0,0.1,0,0.2,0c0.3,0,0.5,0.2,0.5,0.5c0,0.1,0,0.1,0,0.2c0.1,0.4,0,0.8-0.2,1l-5,5L119.3,524.4z"/>
+		</g>
+	</g>
+	<g id="arrow-up-prelight" transform="matrix(0.7464645,0,0,-0.80750136,16.537321,82.572742)" inkscape:label="#g4159-7-3">
+		<g id="layer9-6-7" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-1-6" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-5-7" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-1-0" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-3-1" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-6-0" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-9-2" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-1-9" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-8-4" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-0-4" inkscape:connector-curvature="0" class="st51" d="M119.3,524.4l-0.7-0.7l-5-5c-0.3-0.3-0.4-0.7-0.3-1.1
+				c0,0,0-0.1,0-0.1c0-0.3,0.2-0.5,0.5-0.5c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.3-0.1,0.7,0,0.9,0.3l4.3,4.3l4.3-4.3
+				c0.3-0.3,0.7-0.4,1-0.2c0.1,0,0.1,0,0.2,0c0.3,0,0.5,0.2,0.5,0.5c0,0.1,0,0.1,0,0.2c0.1,0.4,0,0.8-0.2,1l-5,5L119.3,524.4z"/>
+		</g>
+	</g>
+	<g id="arrow-down-small" transform="translate(33,43.362179)" inkscape:label="#g4172">
+		<rect id="rect4170" x="-52" y="189" class="st4" width="9" height="6"/>
+		<g id="g4159-1-4" transform="matrix(0.58058349,0,0,0.6729178,-0.13763907,-1.6754687)">
+			<g id="layer9-4-6" transform="translate(-181.0002,-747)" inkscape:label="status">
+			</g>
+			<g id="layer10-5-1" transform="translate(-181.0002,-747)" inkscape:label="devices">
+			</g>
+			<g id="layer11-2-1" transform="translate(-181.0002,-747)" inkscape:label="apps">
+			</g>
+			<g id="layer13-8-3" transform="translate(-181.0002,-747)" inkscape:label="places">
+			</g>
+			<g id="layer14-1-2" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+			</g>
+			<g id="layer15-1-7" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+			</g>
+			<g id="g71291-2-1" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+			</g>
+			<g id="g4953-9-2" transform="translate(-181.0002,-747)" inkscape:label="categories">
+			</g>
+			<g id="layer12-3-9" transform="translate(-181.0002,-747)" inkscape:label="actions">
+				<path id="path8393-9-9" inkscape:connector-curvature="0" class="st49" d="M94.2,1031.9c-0.5,0.1-0.9,0.6-0.8,1.2
+					c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4s-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+					C94.9,1031.9,94.6,1031.8,94.2,1031.9z"/>
+				<path id="rect8399-5-4" class="st49" d="M105.4,1032.4L105.4,1032.4c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+					c0,0.3,0.2,0.5,0.5,0.5l0,0C105.2,1032.9,105.4,1032.6,105.4,1032.4z"/>
+				<path id="rect8403-8-3" class="st49" d="M94.4,1032.4L94.4,1032.4c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+					c0,0.3,0.2,0.5,0.5,0.5l0,0C94.2,1032.9,94.4,1032.6,94.4,1032.4z"/>
+			</g>
+		</g>
+	</g>
+	<g id="arrow-down-small-insens" transform="translate(43,43.362179)" inkscape:label="#g4172-9">
+		<rect id="rect4170-0" x="-52" y="189" class="st4" width="9" height="6"/>
+		<g id="g4159-1-4-0" transform="matrix(0.58058349,0,0,0.6729178,-0.13763907,-1.6754687)">
+			<g id="layer9-4-6-8" transform="translate(-181.0002,-747)" inkscape:label="status">
+			</g>
+			<g id="layer10-5-1-7" transform="translate(-181.0002,-747)" inkscape:label="devices">
+			</g>
+			<g id="layer11-2-1-5" transform="translate(-181.0002,-747)" inkscape:label="apps">
+			</g>
+			<g id="layer13-8-3-5" transform="translate(-181.0002,-747)" inkscape:label="places">
+			</g>
+			<g id="layer14-1-2-3" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+			</g>
+			<g id="layer15-1-7-3" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+			</g>
+			<g id="g71291-2-1-5" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+			</g>
+			<g id="g4953-9-2-6" transform="translate(-181.0002,-747)" inkscape:label="categories">
+			</g>
+			<g id="layer12-3-9-5" transform="translate(-181.0002,-747)" inkscape:label="actions">
+				<path id="path8393-9-9-9" inkscape:connector-curvature="0" class="st50" d="M94.4,1031.8c-0.1,0-0.1,0-0.2,0c0,0-0.1,0-0.1,0
+					c0,0-0.1,0-0.2,0c-0.3,0-0.5,0.2-0.5,0.5c0,0,0,0.1,0,0.1c-0.2,0.4-0.1,0.8,0.2,1.1l5,5l0.7,0.7l0.7-0.7l5-5
+					c0.3-0.3,0.4-0.7,0.2-1.1c0,0,0.1-0.1,0.1-0.1c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.8,0-1,0.2l-4.3,4.3
+					l-4.3-4.3C95,1032,94.7,1031.8,94.4,1031.8z"/>
+			</g>
+		</g>
+	</g>
+	<g id="arrow-down-small-prelight" transform="translate(53,43.362179)" inkscape:label="#g4172-6">
+		<rect id="rect4170-6" x="-52" y="189" class="st4" width="9" height="6"/>
+		<g id="g4159-1-4-3" transform="matrix(0.58058349,0,0,0.6729178,-0.13763907,-1.6754687)">
+			<g id="layer9-4-6-2" transform="translate(-181.0002,-747)" inkscape:label="status">
+			</g>
+			<g id="layer10-5-1-4" transform="translate(-181.0002,-747)" inkscape:label="devices">
+			</g>
+			<g id="layer11-2-1-7" transform="translate(-181.0002,-747)" inkscape:label="apps">
+			</g>
+			<g id="layer13-8-3-3" transform="translate(-181.0002,-747)" inkscape:label="places">
+			</g>
+			<g id="layer14-1-2-0" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+			</g>
+			<g id="layer15-1-7-9" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+			</g>
+			<g id="g71291-2-1-1" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+			</g>
+			<g id="g4953-9-2-1" transform="translate(-181.0002,-747)" inkscape:label="categories">
+			</g>
+			<g id="layer12-3-9-1" transform="translate(-181.0002,-747)" inkscape:label="actions">
+				<path id="path8393-9-9-0" inkscape:connector-curvature="0" class="st51" d="M94.4,1031.8c-0.1,0-0.1,0-0.2,0c0,0-0.1,0-0.1,0
+					c0,0-0.1,0-0.2,0c-0.3,0-0.5,0.2-0.5,0.5c0,0,0,0.1,0,0.1c-0.2,0.4-0.1,0.8,0.2,1.1l5,5l0.7,0.7l0.7-0.7l5-5
+					c0.3-0.3,0.4-0.7,0.2-1.1c0,0,0.1-0.1,0.1-0.1c0-0.3-0.2-0.5-0.5-0.5c-0.1,0-0.1,0-0.2,0c-0.4-0.1-0.8,0-1,0.2l-4.3,4.3
+					l-4.3-4.3C95,1032,94.7,1031.8,94.4,1031.8z"/>
+			</g>
+		</g>
+	</g>
+	<g id="arrow-up-small" transform="matrix(1,0,0,-1,33,57.362179)" inkscape:label="#g4172-5">
+		<rect id="rect4170-4" x="-52" y="-183" class="st4" width="9" height="-6"/>
+		<g id="g4159-1-4-06" transform="matrix(0.58058349,0,0,0.6729178,-0.13763907,-1.6754687)">
+			<g id="layer9-4-6-4" transform="translate(-181.0002,-747)" inkscape:label="status">
+			</g>
+			<g id="layer10-5-1-71" transform="translate(-181.0002,-747)" inkscape:label="devices">
+			</g>
+			<g id="layer11-2-1-9" transform="translate(-181.0002,-747)" inkscape:label="apps">
+			</g>
+			<g id="layer13-8-3-0" transform="translate(-181.0002,-747)" inkscape:label="places">
+			</g>
+			<g id="layer14-1-2-6" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+			</g>
+			<g id="layer15-1-7-6" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+			</g>
+			<g id="g71291-2-1-8" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+			</g>
+			<g id="g4953-9-2-2" transform="translate(-181.0002,-747)" inkscape:label="categories">
+			</g>
+			<g id="layer12-3-9-7" transform="translate(-181.0002,-747)" inkscape:label="actions">
+				<path id="path8393-9-9-5" inkscape:connector-curvature="0" class="st49" d="M94.2,470.1c-0.5,0.1-0.9,0.6-0.8,1.2
+					c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+					C94.9,470.2,94.6,470.1,94.2,470.1z"/>
+				<path id="rect8399-5-4-1" class="st49" d="M105.4,470.6L105.4,470.6c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+					c0,0.3,0.2,0.5,0.5,0.5l0,0C105.2,471.1,105.4,470.9,105.4,470.6z"/>
+				<path id="rect8403-8-3-3" class="st49" d="M94.4,470.6L94.4,470.6c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+					c0,0.3,0.2,0.5,0.5,0.5l0,0C94.2,471.1,94.4,470.9,94.4,470.6z"/>
+			</g>
+		</g>
+	</g>
+	<g id="arrow-up-small-insens" transform="matrix(1,0,0,-1,43,57.362179)" inkscape:label="#g4172-9-3">
+		<rect id="rect4170-0-7" x="-52" y="-183" class="st4" width="9" height="-6"/>
+		<g id="g4159-1-4-0-6" transform="matrix(0.58058349,0,0,0.6729178,-0.13763907,-1.6754687)">
+			<g id="layer9-4-6-8-9" transform="translate(-181.0002,-747)" inkscape:label="status">
+			</g>
+			<g id="layer10-5-1-7-4" transform="translate(-181.0002,-747)" inkscape:label="devices">
+			</g>
+			<g id="layer11-2-1-5-1" transform="translate(-181.0002,-747)" inkscape:label="apps">
+			</g>
+			<g id="layer13-8-3-5-9" transform="translate(-181.0002,-747)" inkscape:label="places">
+			</g>
+			<g id="layer14-1-2-3-5" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+			</g>
+			<g id="layer15-1-7-3-4" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+			</g>
+			<g id="g71291-2-1-5-3" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+			</g>
+			<g id="g4953-9-2-6-8" transform="translate(-181.0002,-747)" inkscape:label="categories">
+			</g>
+			<g id="layer12-3-9-5-4" transform="translate(-181.0002,-747)" inkscape:label="actions">
+				<path id="path8393-9-9-9-7" inkscape:connector-curvature="0" class="st50" d="M99.4,477.5l-0.7-0.7l-5-5
+					c-0.3-0.3-0.4-0.7-0.2-1.1c0,0,0-0.1,0-0.1c0-0.3,0.2-0.5,0.5-0.5c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.3-0.1,0.7,0,0.9,0.3
+					l4.3,4.3l4.3-4.3c0.3-0.3,0.7-0.4,1-0.2c0.1,0,0.1,0,0.2,0c0.3,0,0.5,0.2,0.5,0.5c0,0.1,0,0.1-0.1,0.1c0.1,0.4,0.1,0.8-0.2,1.1
+					l-5,5L99.4,477.5z"/>
+			</g>
+		</g>
+	</g>
+	<g id="arrow-up-small-prelight" transform="matrix(1,0,0,-1,53,57.362179)" inkscape:label="#g4172-6-1">
+		<rect id="rect4170-6-6" x="-52" y="-183" class="st4" width="9" height="-6"/>
+		<g id="g4159-1-4-3-8" transform="matrix(0.58058349,0,0,0.6729178,-0.13763907,-1.6754687)">
+			<g id="layer9-4-6-2-5" transform="translate(-181.0002,-747)" inkscape:label="status">
+			</g>
+			<g id="layer10-5-1-4-3" transform="translate(-181.0002,-747)" inkscape:label="devices">
+			</g>
+			<g id="layer11-2-1-7-9" transform="translate(-181.0002,-747)" inkscape:label="apps">
+			</g>
+			<g id="layer13-8-3-3-6" transform="translate(-181.0002,-747)" inkscape:label="places">
+			</g>
+			<g id="layer14-1-2-0-5" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+			</g>
+			<g id="layer15-1-7-9-6" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+			</g>
+			<g id="g71291-2-1-1-4" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+			</g>
+			<g id="g4953-9-2-1-5" transform="translate(-181.0002,-747)" inkscape:label="categories">
+			</g>
+			<g id="layer12-3-9-1-0" transform="translate(-181.0002,-747)" inkscape:label="actions">
+				<path id="path8393-9-9-0-4" inkscape:connector-curvature="0" class="st51" d="M99.4,477.5l-0.7-0.7l-5-5
+					c-0.3-0.3-0.4-0.7-0.2-1.1c0,0,0-0.1,0-0.1c0-0.3,0.2-0.5,0.5-0.5c0.1,0,0.1,0,0.2,0c0,0,0.1,0,0.1,0c0.3-0.1,0.7,0,0.9,0.3
+					l4.3,4.3l4.3-4.3c0.3-0.3,0.7-0.4,1-0.2c0.1,0,0.1,0,0.2,0c0.3,0,0.5,0.2,0.5,0.5c0,0.1,0,0.1-0.1,0.1c0.1,0.4,0.1,0.8-0.2,1.1
+					l-5,5L99.4,477.5z"/>
+			</g>
+		</g>
+	</g>
+	<g id="menu-arrow" transform="matrix(0,0.66352399,0.6729178,0,33.324531,62.06202)" inkscape:label="#g4159-9-7-9">
+		<g id="layer9-0-1-5" transform="translate(-181.0002,-747)" inkscape:label="status">
+		</g>
+		<g id="layer10-55-5-8" transform="translate(-181.0002,-747)" inkscape:label="devices">
+		</g>
+		<g id="layer11-0-0-7" transform="translate(-181.0002,-747)" inkscape:label="apps">
+		</g>
+		<g id="layer13-80-76-4" transform="translate(-181.0002,-747)" inkscape:label="places">
+		</g>
+		<g id="layer14-8-1-4" transform="translate(-181.0002,-747)" inkscape:label="mimetypes">
+		</g>
+		<g id="layer15-2-4-9" transform="translate(-181.0002,-747)" inkscape:label="emblems">
+		</g>
+		<g id="g71291-0-9-6" transform="translate(-181.0002,-747)" inkscape:label="emotes">
+		</g>
+		<g id="g4953-14-3-9" transform="translate(-181.0002,-747)" inkscape:label="categories">
+		</g>
+		<g id="layer12-2-1-3" transform="translate(-181.0002,-747)" inkscape:label="actions">
+			<path id="path8393-09-3-1" inkscape:connector-curvature="0" class="st49" d="M468.6,673.7c-0.5,0.1-0.9,0.6-0.8,1.2
+				c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+				C469.3,673.8,469,673.6,468.6,673.7z"/>
+			<path id="rect8399-37-2-8" class="st49" d="M479.8,674.2L479.8,674.2c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C479.6,674.7,479.8,674.5,479.8,674.2z"/>
+			<path id="rect8403-7-3-0" class="st49" d="M468.8,674.2L468.8,674.2c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+				c0,0.3,0.2,0.5,0.5,0.5l0,0C468.6,674.7,468.8,674.5,468.8,674.2z"/>
+		</g>
+	</g>
+	<g id="layer9-0-1-5-6" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="status">
+	</g>
+	<g id="layer10-55-5-8-2" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="devices">
+	</g>
+	<g id="layer11-0-0-7-4" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="apps">
+	</g>
+	<g id="layer13-80-76-4-4" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="places">
+	</g>
+	<g id="layer14-8-1-4-2" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="mimetypes">
+	</g>
+	<g id="layer15-2-4-9-1" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="emblems">
+	</g>
+	<g id="g71291-0-9-6-9" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="emotes">
+	</g>
+	<g id="g4953-14-3-9-1" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-95.035954)" inkscape:label="categories">
+	</g>
+	<g id="menu-arrow-prelight" transform="matrix(0,0.66352399,0.6729178,0,-461.34507,-58.035955)" inkscape:label="actions">
+		<path id="path8393-09-3-1-4" inkscape:connector-curvature="0" class="st5" d="M468.6,673.7c-0.5,0.1-0.9,0.6-0.8,1.2
+			c0,0.2,0.1,0.4,0.3,0.6l5,5l0.7,0.7l0.7-0.7l5-5c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0l-4.3,4.3l-4.3-4.3
+			C469.3,673.8,469,673.6,468.6,673.7z"/>
+		<path id="rect8399-37-2-8-9" class="st5" d="M479.8,674.2L479.8,674.2c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+			c0,0.3,0.2,0.5,0.5,0.5l0,0C479.6,674.7,479.8,674.5,479.8,674.2z"/>
+		<path id="rect8403-7-3-0-4" class="st5" d="M468.8,674.2L468.8,674.2c0-0.3-0.2-0.5-0.5-0.5l0,0c-0.3,0-0.5,0.2-0.5,0.5l0,0
+			c0,0.3,0.2,0.5,0.5,0.5l0,0C468.6,674.7,468.8,674.5,468.8,674.2z"/>
+	</g>
+	<g id="minus" transform="translate(-205,-108)" inkscape:label="#g5704">
+		<path id="rect5642" class="st10" d="M398.2,87.4h6.6c1.2,0,2.2,1.2,2.2,2.6v5.8c0,1.4-1,2.6-2.2,2.6h-6.6c-1.2,0-2.2-1.2-2.2-2.6
+			V90C396,88.5,397,87.4,398.2,87.4z"/>
+		<path id="rect5646" class="st5" d="M398,88.4h7c0.6,0,1,0.4,1,1v7c0,0.6-0.4,1-1,1h-7c-0.6,0-1-0.4-1-1v-7
+			C397,88.8,397.4,88.4,398,88.4z"/>
+		<path id="rect5648" class="st49" d="M400,92.4h3c0.6,0,1,0.2,1,0.5l0,0c0,0.3-0.4,0.5-1,0.5h-3c-0.6,0-1-0.2-1-0.5l0,0
+			C399,92.6,399.4,92.4,400,92.4z"/>
+	</g>
+	<g id="plus" transform="translate(-205,-108)" inkscape:label="#g5698">
+		<path id="rect5640" class="st10" d="M383.5,87.4h8c0.8,0,1.5,0.8,1.5,1.7v7.6c0,1-0.7,1.7-1.5,1.7h-8c-0.8,0-1.5-0.8-1.5-1.7v-7.6
+			C382,88.1,382.7,87.4,383.5,87.4z"/>
+		<path id="rect5644" class="st5" d="M384,88.4h7c0.6,0,1,0.4,1,1v7c0,0.6-0.4,1-1,1h-7c-0.6,0-1-0.4-1-1v-7
+			C383,88.8,383.4,88.4,384,88.4z"/>
+		<path id="rect5648-1" class="st49" d="M386,92.4h3c0.6,0,1,0.2,1,0.5l0,0c0,0.3-0.4,0.5-1,0.5h-3c-0.6,0-1-0.2-1-0.5l0,0
+			C385,92.6,385.4,92.4,386,92.4z"/>
+		<path id="rect5648-1-9" class="st49" d="M388,91.4v3c0,0.6-0.2,1-0.5,1l0,0c-0.3,0-0.5-0.4-0.5-1v-3c0-0.6,0.2-1,0.5-1l0,0
+			C387.8,90.4,388,90.8,388,91.4z"/>
+	</g>
+	<image style="overflow:visible;" width="2" height="2" xlink:href="428CCD5A.png"  transform="matrix(1 0 0 1 235.0004 9.3622)">
+	</image>
+	<path class="st52" d="z"/>
+	<image style="overflow:visible;" width="2" height="2" xlink:href="428CCD5E.png"  transform="matrix(1 0 0 1 231.0004 9.3622)">
+	</image>
+	<path class="st52" d="z"/>
+	<g id="menuitem" transform="translate(-7,1.9999974)" inkscape:label="#g5794">
+		<rect id="rect5775" x="181" y="34.4" class="st12" width="15" height="25"/>
+	</g>
+	<g id="handle-v" transform="translate(11,0)" inkscape:label="#g6182">
+		<rect id="rect6174" x="158" y="-0.6" class="st4" width="2" height="24"/>
+		<rect id="rect6176" x="158" y="5.4" class="st10" width="2" height="2"/>
+		<rect id="rect6178" x="158" y="10.4" class="st10" width="2" height="2"/>
+		<rect id="rect6180" x="158" y="15.4" class="st10" width="2" height="2"/>
+	</g>
+	<g id="handle-h" transform="matrix(0,1,-1,0,60.362183,-388.63782)" inkscape:label="#g6182-9">
+		
+			<rect id="rect6174-4" x="388" y="-126.6" transform="matrix(2.535182e-006 1 -1 2.535182e-006 274.3612 -525.6375)" class="st4" width="24" height="2"/>
+		
+			<rect id="rect6176-4" x="399" y="-131.6" transform="matrix(2.535182e-006 1 -1 2.535182e-006 269.3612 -530.6375)" class="st10" width="2" height="2"/>
+		
+			<rect id="rect6178-9" x="399" y="-126.6" transform="matrix(2.535182e-006 1 -1 2.535182e-006 274.3612 -525.6375)" class="st10" width="2" height="2"/>
+		
+			<rect id="rect6180-1" x="399" y="-121.6" transform="matrix(2.535182e-006 1 -1 2.535182e-006 279.3612 -520.6375)" class="st10" width="2" height="2"/>
+	</g>
+	<path id="progressbar_v" inkscape:label="#rect5799" class="st12" d="M168,106.4h22c2.2,0,4,1.8,4,4l0,0c0,2.2-1.8,4-4,4h-22
+		c-2.2,0-4-1.8-4-4l0,0C164,108.2,165.8,106.4,168,106.4z"/>
+	<path id="progressbar" inkscape:label="#rect5799-3" class="st12" d="M183,123.4v22c0,2.2-1.8,4-4,4l0,0c-2.2,0-4-1.8-4-4v-22
+		c0-2.2,1.8-4,4-4l0,0C181.2,119.4,183,121.2,183,123.4z"/>
+	<g id="trough-progressbar_v" transform="translate(11,0)" inkscape:label="#g5052">
+		<rect id="rect5050" x="187" y="105.4" class="st4" width="32" height="10"/>
+		<path id="trough-progressbar_v2" inkscape:label="#rect5799-38" class="st10" d="M192,106.4h22c2.2,0,4,1.8,4,4l0,0
+			c0,2.2-1.8,4-4,4h-22c-2.2,0-4-1.8-4-4l0,0C188,108.2,189.8,106.4,192,106.4z"/>
+	</g>
+	<circle id="slider" inkscape:label="#path5834" class="st53" cx="176.5" cy="168.9" r="7">
+	</circle>
+	<circle id="slider-prelight" inkscape:label="#path5834-3" class="st54" cx="195.5" cy="168.9" r="7">
+	</circle>
+	<g id="slider-insensitive" transform="translate(4,-283.63782)" inkscape:label="#g5881">
+		<circle id="path5834-5-4" class="st55" cx="210.5" cy="452.5" r="7"/>
+		<circle id="path5834-5" class="st56" cx="210.5" cy="452.5" r="7"/>
+	</g>
+	<g id="trough-horizontal" transform="translate(6,-283.63782)" inkscape:label="#g5902">
+		<rect id="rect5900" x="151" y="465" class="st4" width="34" height="15"/>
+		<path id="rect5799-8" class="st10" d="M158.5,470h19c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-19c-1.4,0-2.5-1.1-2.5-2.5
+			l0,0C156,471.1,157.1,470,158.5,470z"/>
+	</g>
+	<g id="trough-vertical" transform="matrix(0,1,-1,0,509,-200.63782)" inkscape:label="#g5902-6">
+		
+			<rect id="rect5900-2" x="401.5" y="318.5" transform="matrix(2.535182e-006 1 -1 2.535182e-006 744.499 -73.5008)" class="st4" width="15" height="34"/>
+		<path id="rect5799-8-9" class="st10" d="M399.5,333h19c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5l0,0C397,334.1,398.1,333,399.5,333z"/>
+	</g>
+	<g id="slider-horiz-prelight" transform="translate(-14,-190.63782)" inkscape:label="#g5902-0-1">
+		<rect id="rect5900-5-8" x="154" y="466" class="st4" width="28" height="13"/>
+		<path id="rect5799-8-92-1" class="st57" d="M159,470h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3l0,0
+			C156,471.3,157.3,470,159,470z"/>
+	</g>
+	<rect id="notebook" x="346.5" y="-88.1" inkscape:label="#rect6042" class="st58" width="9" height="9">
+	</rect>
+	<g>
+		<defs>
+			<rect id="SVGID_53_" x="364" y="-88.6" width="30" height="30"/>
+		</defs>
+		<clipPath id="SVGID_54_">
+			<use xlink:href="#SVGID_53_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="tab-top-active" transform="translate(416,-1300)" inkscape:label="Ebene 1" class="st59">
+			<rect id="rect2987" x="-52" y="1211.4" class="st60" width="30" height="33"/>
+			<polygon id="rect3759" class="st5" points="-51,1212.4 -23,1212.4 -23,1212.4 -23,1243.4 -23,1243.4 -51,1243.4 -51,1243.4 
+				-51,1212.4 			"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_55_" x="399" y="-88.6" width="30" height="30"/>
+		</defs>
+		<clipPath id="SVGID_56_">
+			<use xlink:href="#SVGID_55_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="tab-right-active" transform="matrix(0,1,-1,0,1503.3622,-277.63782)" inkscape:label="Ebene 1" class="st61">
+			
+				<rect id="rect2987-3" x="187.5" y="1075.9" transform="matrix(2.535182e-006 1 -1 2.535182e-006 1294.8617 886.8594)" class="st60" width="33" height="30"/>
+			<polygon id="rect3759-2" class="st5" points="190,1075.4 218,1075.4 218,1075.4 218,1106.4 218,1106.4 190,1106.4 190,1106.4 
+				190,1075.4 			"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_57_" x="364" y="-54.6" width="30" height="30"/>
+		</defs>
+		<clipPath id="SVGID_58_">
+			<use xlink:href="#SVGID_57_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="tab-bottom-active" transform="matrix(1,0,0,-1,416,808.72438)" inkscape:label="Ebene 1" class="st62">
+			<rect id="rect2987-2" x="-52" y="866.4" class="st60" width="30" height="-33"/>
+			<polygon id="rect3759-3" class="st5" points="-51,834.4 -23,834.4 -23,834.4 -23,865.4 -23,865.4 -51,865.4 -51,865.4 -51,834.4 
+							"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_59_" x="399" y="-54.6" width="30" height="30"/>
+		</defs>
+		<clipPath id="SVGID_60_">
+			<use xlink:href="#SVGID_59_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="tab-left-active" transform="matrix(0,-1,1,0,-571.3622,-213.63782)" inkscape:label="Ebene 1" class="st63">
+			
+				<rect id="rect2987-28" x="-190.5" y="971.9" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -1160.8627 812.8647)" class="st60" width="33" height="30"/>
+			<polygon id="rect3759-6" class="st5" points="-188,971.4 -160,971.4 -160,971.4 -160,1002.4 -160,1002.4 -188,1002.4 
+				-188,1002.4 -188,971.4 			"/>
+		</g>
+	</g>
+	<g id="notebook-gap-horiz" transform="translate(4,-283.63782)" inkscape:label="#g6133">
+		<rect id="rect6129" x="342" y="208" class="st4" width="4" height="2"/>
+		<rect id="rect6131" x="343" y="208" class="st5" width="2" height="2"/>
+	</g>
+	<g id="notebook-gap-vert" transform="matrix(0,1,-1,0,424,-659.63782)" inkscape:label="#g6133-5">
+		
+			<rect id="rect6129-6" x="584" y="70" transform="matrix(2.535182e-006 1 -1 2.535182e-006 656.9985 -513.0002)" class="st4" width="2" height="4"/>
+		
+			<rect id="rect6131-3" x="584" y="71" transform="matrix(2.535182e-006 1 -1 2.535182e-006 656.9985 -513.0002)" class="st5" width="2" height="2"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_61_" x="359" y="16.4" width="24" height="32"/>
+		</defs>
+		<clipPath id="SVGID_62_">
+			<use xlink:href="#SVGID_61_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect id="inline-toolbar" x="359.5" y="14.9" inkscape:label="#rect6158" class="st64" width="23" height="33">
+		</rect>
+	</g>
+	<g id="toolbar" transform="translate(4,-283.63782)" inkscape:label="#g6170">
+		<rect id="rect6166" x="385" y="300" class="st1" width="24" height="32"/>
+		<rect id="rect6168" x="385" y="331" class="st60" width="24" height="1"/>
+	</g>
+	<g id="tree_header" transform="translate(11,0)" inkscape:label="#g6293">
+		<rect id="rect6289" x="358" y="101.4" class="st5" width="10" height="28"/>
+		<rect id="rect6291" x="367" y="101.4" class="st65" width="1" height="28"/>
+	</g>
+	<rect id="null" x="389" y="101.4" inkscape:label="#rect6297" class="st4" width="15" height="15">
+	</rect>
+	
+		<image style="overflow:visible;" width="10" height="10" xlink:href="428CCD59.png"  transform="matrix(1 0 0 1 369.0004 149.3622)">
+	</image>
+	<path class="st52" d="z"/>
+	<image style="overflow:visible;" width="2" height="1" xlink:href="428CCD5B.png"  transform="matrix(1 0 0 1 384.0004 151.3622)">
+	</image>
+	<path class="st52" d="z"/>
+	<image style="overflow:visible;" width="2" height="1" xlink:href="428CCD58.png"  transform="matrix(1 0 0 1 384.0004 154.3622)">
+	</image>
+	<path class="st52" d="z"/>
+	<g id="menubar_button" transform="translate(11,0)" inkscape:label="#g5032">
+		<rect id="wsad" x="193" y="36.4" inkscape:label="#rect5007" class="st5" width="25" height="15">
+		</rect>
+		<rect id="rect5009" x="193" y="36.4" class="st66" width="1" height="15"/>
+		<rect id="rect5009-9" x="217" y="36.4" class="st66" width="1" height="15"/>
+		<rect id="rect5009-95" x="193" y="36.4" class="st66" width="25" height="1"/>
+	</g>
+	<g id="trough-progressbar" transform="matrix(0,1,-1,0,188.36218,-309.63782)" inkscape:label="#g5052">
+		
+			<rect id="rect5050-9" x="439" y="-42.6" transform="matrix(2.535182e-006 1 -1 2.535182e-006 417.3611 -470.6378)" class="st4" width="10" height="32"/>
+		<path id="trough-progressbar_v2-1" inkscape:label="#rect5799-38" class="st10" d="M433-30.6h22c2.2,0,4,1.8,4,4l0,0
+			c0,2.2-1.8,4-4,4h-22c-2.2,0-4-1.8-4-4l0,0C429-28.8,430.8-30.6,433-30.6z"/>
+	</g>
+	<g id="entry-toolbar" transform="translate(-1,126)" inkscape:label="#g9335">
+		<rect id="rect5076-6" x="-55" y="-90.6" class="st67" width="26" height="24"/>
+		<path id="rect7903-7-1-6" inkscape:transform-center-x="-5.0639157" inkscape:transform-center-y="0.42353254" class="st3" d="
+			M-51.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-54.5-88.8-53.2-90.1-51.5-90.1z"/>
+		<path id="rect7903-93-7" class="st5" d="M-51.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5v-17C-54-88.5-52.9-89.6-51.5-89.6z"/>
+	</g>
+	<g id="entry-active-toolbar" transform="translate(-1,126)" inkscape:label="#g9350">
+		<rect id="rect5076-2" x="-21" y="-90.6" class="st67" width="26" height="24"/>
+		<path id="rect7903-7-3-4-9" inkscape:transform-center-x="-5.0639177" inkscape:transform-center-y="0.42353254" class="st16" d="
+			M-17.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-20.5-88.8-19.2-90.1-17.5-90.1z"/>
+		<path id="rect7903-93-4" class="st5" d="M-17.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5v-17C-20-88.5-18.9-89.6-17.5-89.6z"/>
+	</g>
+	<g id="entry-disabled-toolbar" transform="translate(-1,126)" inkscape:label="#g9365">
+		<g id="g4303-7-3">
+			<rect id="rect5076-7" x="13" y="-90.6" class="st67" width="26" height="24"/>
+			<path id="rect7903-6-5-6" class="st6" d="M16.5-89.6h19c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-19
+				c-1.4,0-2.5-1.1-2.5-2.5v-17C14-88.5,15.1-89.6,16.5-89.6z"/>
+			
+				<path id="rect7903-7-2-3-4" inkscape:transform-center-x="-5.0639158" inkscape:transform-center-y="0.42353254" class="st17" d="
+				M16.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C13.5-88.8,14.8-90.1,16.5-90.1z"/>
+		</g>
+	</g>
+	<g id="menubar" transform="translate(33,-283.63782)" inkscape:label="#g6170">
+		<rect id="rect6166-6" x="385" y="300" class="st67" width="24" height="32"/>
+		<rect id="rect6168-6" x="385" y="331" class="st68" width="24" height="1"/>
+	</g>
+	<rect id="focus-line" x="231.5" y="-16.1" inkscape:label="#rect6176-4-2" class="st69" width="4" height="4">
+	</rect>
+	<g id="trough-horizontal-active" transform="translate(37,-283.63782)" inkscape:label="#g5902">
+		<rect id="rect5900-0" x="151" y="465" class="st4" width="34" height="15"/>
+		<path id="rect5799-8-5" class="st12" d="M158.5,470h19c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5l0,0C156,471.1,157.1,470,158.5,470z"/>
+	</g>
+	<g id="trough-vertical-active" transform="matrix(0,1,-1,0,540,-200.63782)" inkscape:label="#g5902-6">
+		
+			<rect id="rect5900-2-4" x="401.5" y="318.5" transform="matrix(2.535182e-006 1 -1 2.535182e-006 744.499 -73.5008)" class="st4" width="15" height="34"/>
+		<path id="rect5799-8-9-4" class="st12" d="M399.5,333h19c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-19
+			c-1.4,0-2.5-1.1-2.5-2.5l0,0C397,334.1,398.1,333,399.5,333z"/>
+	</g>
+	<g id="slider-horiz-active" transform="translate(-14,-203.63782)" inkscape:label="#g5902-0-1">
+		<rect id="rect5900-5-8-47" x="154" y="466" class="st4" width="28" height="13"/>
+		<path id="rect5799-8-92-1-0" class="st12" d="M159,470h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3l0,0
+			C156,471.3,157.3,470,159,470z"/>
+	</g>
+	<g id="slider-horiz" transform="translate(-14,-216.63782)" inkscape:label="#g5902-0-1">
+		<rect id="rect5900-5-8-47-3" x="154" y="466" class="st4" width="28" height="13"/>
+		<path id="rect5799-8-92-1-0-8" class="st70" d="M159,470h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3l0,0
+			C156,471.3,157.3,470,159,470z"/>
+	</g>
+	<g id="slider-vert-prelight" transform="matrix(0,-1,1,0,-16,292.36218)" inkscape:label="#g5902-0-1">
+		
+			<rect id="rect5900-5-8-1" x="24.5" y="217.5" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -200.4999 262.5006)" class="st4" width="13" height="28"/>
+		<path id="rect5799-8-92-1-1" class="st57" d="M22,229h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3H22c-1.7,0-3-1.3-3-3l0,0
+			C19,230.3,20.3,229,22,229z"/>
+	</g>
+	<g id="slider-vert-active" transform="matrix(0,-1,1,0,-29,292.36218)" inkscape:label="#g5902-0-1">
+		
+			<rect id="rect5900-5-8-47-7" x="24.5" y="217.5" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -200.4999 262.5006)" class="st4" width="13" height="28"/>
+		<path id="rect5799-8-92-1-0-6" class="st12" d="M22,229h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3H22c-1.7,0-3-1.3-3-3l0,0
+			C19,230.3,20.3,229,22,229z"/>
+	</g>
+	<g id="slider-vert" transform="matrix(0,-1,1,0,-42,292.36218)" inkscape:label="#g5902-0-1">
+		
+			<rect id="rect5900-5-8-47-3-2" x="24.5" y="217.5" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -200.4999 262.5006)" class="st4" width="13" height="28"/>
+		<path id="rect5799-8-92-1-0-8-9" class="st70" d="M22,229h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3H22c-1.7,0-3-1.3-3-3l0,0
+			C19,230.3,20.3,229,22,229z"/>
+	</g>
+	<g id="trough-scrollbar-vert" inkscape:label="#g5091">
+		<rect id="sdcdscds" x="189" y="281.4" inkscape:label="#rect6037" class="st71" width="15" height="15">
+		</rect>
+		<rect id="rect5065" x="189" y="281.4" class="st72" width="1" height="15"/>
+	</g>
+	<g id="trough-scrollbar-horiz" transform="matrix(0,1,-1,0,369.36237,-148.63783)" inkscape:label="#g5091">
+		
+			<rect id="sdcdscds-6" x="430" y="144.4" inkscape:label="#rect6037" transform="matrix(2.535182e-006 1 -1 2.535182e-006 589.3613 -285.6384)" class="st71" width="15" height="15">
+		</rect>
+		
+			<rect id="rect5065-7" x="423" y="151.4" transform="matrix(2.535182e-006 1 -1 2.535182e-006 582.361 -278.6383)" class="st72" width="15" height="1"/>
+	</g>
+	<g id="slider-vert-insens" transform="matrix(0,-1,1,0,-3,292.36218)" inkscape:label="#g5902-0-1">
+		
+			<rect id="rect5900-5-8-1-4" x="24.5" y="217.5" transform="matrix(-2.535182e-006 -1 1 -2.535182e-006 -200.4999 262.5006)" class="st4" width="13" height="28"/>
+		<path id="rect5799-8-92-1-1-6" class="st73" d="M22,229h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3H22c-1.7,0-3-1.3-3-3l0,0
+			C19,230.3,20.3,229,22,229z"/>
+	</g>
+	<g id="slider-horiz-insens" transform="translate(-14,-177.63782)" inkscape:label="#g5902-0-1">
+		<rect id="rect5900-5-8-7" x="154" y="466" class="st4" width="28" height="13"/>
+		<path id="rect5799-8-92-1-2" class="st73" d="M159,470h18c1.7,0,3,1.3,3,3l0,0c0,1.7-1.3,3-3,3h-18c-1.7,0-3-1.3-3-3l0,0
+			C156,471.3,157.3,470,159,470z"/>
+	</g>
+	<g id="menu-checkbox-unchecked-selected" transform="translate(214,-1289)" inkscape:label="Ebene 1">
+		<g id="checkbox-unchecked-49-9" transform="translate(-19,1036.9872)" inkscape:label="#g22047">
+			<g id="sdsd-1-0" inkscape:label="#g21853">
+				<path id="rect21848-6-0" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssssssssssssssss" class="st74" d="
+					M-31.1,191.4c-1,0-1.9,0.8-1.9,1.9v9.3c0,1,0.8,1.9,1.9,1.9h9.3c1,0,1.9-0.8,1.9-1.9v-9.3c0-1-0.8-1.9-1.9-1.9H-31.1z
+					 M-31,192.4h9c0.5,0,1,0.5,1,1v9c0,0.5-0.5,1-1,1l-9.1-0.1c-0.5,0-0.9-0.4-0.9-0.9v-9C-32,192.9-31.5,192.4-31,192.4z"/>
+				<g id="scdsdcd-69-8" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-10-0" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-6-7" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-3-3">
+							</g>
+						</g>
+					</g>
+					<g id="g5400-3-2">
+						<path id="rect5147-9-1-5-7-6-55-9" class="st75" d="M-31,222.4h9c0.6,0,1,0.4,1,1v9c0,0.6-0.4,1-1,1h-9c-0.6,0-1-0.4-1-1v-9
+							C-32,222.8-31.6,222.4-31,222.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-checkbox-checked-selected" transform="translate(208.37869,-252.08593)" inkscape:label="#g10758">
+		<g id="checkbox-unchecked-5-8-5" transform="translate(19,0)" inkscape:label="#g22047">
+			<g id="sdsd-7-9-8" inkscape:label="#g21853">
+				<g id="scdsdcd-5-83-4" transform="translate(0,-30)" inkscape:label="#g14325">
+					<g id="g15812-6-6-1-5-9-8" transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)">
+						<g id="g5489-2-9-6-8-8-53-42-6" transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+							<g id="g5428-8-1-4-0-0-4-4-3">
+							</g>
+						</g>
+					</g>
+					<g id="g5400-6-55-8">
+						<path id="rect5147-9-1-5-7-6-7-2-7" class="st5" d="M-31.4,221.4h9c1.1,0,2,0.9,2,2v9c0,1.1-0.9,2-2,2h-9c-1.1,0-2-0.9-2-2v-9
+							C-33.4,222.3-32.5,221.4-31.4,221.4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="checkbox-checked-dark-7-1-5" transform="translate(36,-1036)" inkscape:label="Ebene 1">
+			<g id="g3981-6-4-7-2" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,729.95475,305.0582)" class="st13">
+			</g>
+			<g id="g4049-2-6-8" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,727.94436,295.31123)">
+				<g id="g4056-7-3-7" transform="translate(12.374375,11.531233)">
+					<g id="g3981-0-31-5" transform="translate(-3,-4.9999826)">
+						<path id="rect3977-39-88-5" class="st12" d="M105.9,1204.1h3.7c0.4,0,0.7,0.3,0.7,0.7v0.7c0,0.4-0.3,0.7-0.7,0.7h-3.7
+							c-0.4,0-0.7-0.3-0.7-0.7v-0.7C105.2,1204.4,105.5,1204.1,105.9,1204.1z"/>
+						<rect id="rect3979-7-8-3" x="108.2" y="1198.1" class="st12" width="2" height="8"/>
+					</g>
+					<rect id="rect4047-81-8-4" x="101.9" y="1198.8" class="st14" width="3" height="1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-radio-unchecked-selected" transform="translate(115,-237.00012)" inkscape:label="#g10975" class="st76">
+		<path id="path10940-8-0" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssssssss" class="st5" d="M47,197.9
+			c0,3.6,2.9,6.5,6.5,6.5c3.6,0,6.5-2.9,6.5-6.5c0-3.6-2.9-6.5-6.5-6.5C49.9,191.4,47,194.3,47,197.9z M48,197.8
+			c0-3.1,2.4-5.4,5.5-5.4s5.5,2.4,5.5,5.5c0,3.1-2.4,5.5-5.5,5.5S48,200.9,48,197.8z"/>
+		<g id="g10964-19-9">
+			<g id="radio-unchecked2-82-1" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+				<g id="g7025-16-2">
+					<g id="g5489-2-9-3-0-0" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+						<g id="g5428-8-1-7-9-1">
+							<path id="rect5147-9-1-7-4-3" class="st77" d="M-41.8,521.1L-41.8,521.1c6.4,0,11.5,5.1,11.5,11.4l0,0
+								c0,6.3-5.2,11.4-11.5,11.4l0,0c-6.4,0-11.5-5.1-11.5-11.4l0,0C-53.3,526.2-48.2,521.1-41.8,521.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="menu-radio-checked-selected" transform="translate(128,-237.00011)" inkscape:label="#g11094">
+		<g id="radio-unchecked-2-7-3" transform="translate(19.004264,-4.6992607e-6)" inkscape:label="#g10975">
+			<g id="g10964-6-9-2">
+				<g id="radio-unchecked2-0-1-3" transform="matrix(0.93617253,0,0,0.93566004,-96.78315,-244.76084)" inkscape:label="#g15805">
+					<g id="g7025-09-3-5">
+						<g id="g5489-2-9-3-2-1-3" transform="matrix(0.5089163,0,0,0.51739823,181.7932,197.56426)">
+							<g id="g5428-8-1-7-5-7-5">
+								<path id="rect5147-9-1-7-2-8-3" class="st5" d="M-41.8,519L-41.8,519c7.5,0,13.6,6,13.6,13.4l0,0c0,7.4-6.1,13.4-13.6,13.4
+									l0,0c-7.5,0-13.6-6-13.6-13.4l0,0C-55.4,525-49.3,519-41.8,519z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="use15101-5-7-8-1" class="st12" d="M72.5,195.4L72.5,195.4c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5l0,0
+			c-1.4,0-2.5-1.1-2.5-2.5l0,0C70,196.5,71.1,195.4,72.5,195.4z"/>
+	</g>
+	<g id="entry-border-bg" transform="translate(-1,31.999997)" inkscape:label="#g9335">
+		<path id="rect5006-1" inkscape:connector-curvature="0" class="st1" d="M-56-91.6v26h1h1h24h1h1v-26h-1h-1h-24h-1H-56z M-54-89.6
+			h24v22h-24V-89.6z"/>
+		<path id="rect9321-3-7" inkscape:connector-curvature="0" class="st1" d="M-55-90.6v24h26v-24H-55z M-51.5-89.6h1h17h1
+			c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-1h-17h-1c-1.4,0-2.5-1.1-2.5-2.5v-17C-54-88.5-52.9-89.6-51.5-89.6z"/>
+		<path id="rect7903-7-31-1" inkscape:transform-center-x="-5.0639158" inkscape:transform-center-y="0.42353254" class="st3" d="
+			M-51.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-54.5-88.8-53.2-90.1-51.5-90.1z"/>
+	</g>
+	<g id="entry-border-active-bg" transform="translate(-1,31.999997)" inkscape:label="#g9350">
+		<path id="rect5006-1-1-1" inkscape:connector-curvature="0" class="st1" d="M-22-91.6v26h1h1H4h1h1v-26H5H4h-24h-1H-22z M-20-89.6
+			H4v22h-24V-89.6z"/>
+		<path id="rect9321-0-2-2" inkscape:connector-curvature="0" class="st1" d="M-21-90.6v24H5v-24H-21z M-17.5-89.6h1h17h1
+			c1.4,0,2.5,1.1,2.5,2.5v17c0,1.4-1.1,2.5-2.5,2.5h-1h-17h-1c-1.4,0-2.5-1.1-2.5-2.5v-17C-20-88.5-18.9-89.6-17.5-89.6z"/>
+		<path id="rect7903-7-3-7-7" inkscape:transform-center-x="-5.0639174" inkscape:transform-center-y="0.42353254" class="st16" d="
+			M-17.5-90.1h19c1.7,0,3,1.3,3,3v17c0,1.7-1.3,3-3,3h-19c-1.7,0-3-1.3-3-3v-17C-20.5-88.8-19.2-90.1-17.5-90.1z"/>
+	</g>
+	<polygon id="entry-background" inkscape:label="#rect5008" class="st5" points="15,-56.6 21,-56.6 21,-56.6 21,-38.6 21,-38.6 
+		15,-38.6 15,-38.6 15,-56.6 	">
+	</polygon>
+	<polygon id="entry-background-disabled" inkscape:label="#rect5008-1" class="st6" points="28,-56.6 34,-56.6 34,-56.6 34,-38.6 
+		34,-38.6 28,-38.6 28,-38.6 28,-56.6 	">
+	</polygon>
+</g>
+</svg>
