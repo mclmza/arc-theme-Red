@@ -4,19 +4,21 @@ A red variation of [Horst3180's Arc Theme](https://github.com/horst3180/arc-them
 
 This version has a reduced color range, is mostly gray and red. I developed this version especially for all those who use linux on a thinkpad.
 
+Download the built theme [here](https://github.com/mclmzz/arc-theme-Red/releases/download/1/Arc-Red-theme.zip)
+
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-###Arc is available in three variants 
+###Arc Red is available in three variants 
 
-#####Arc
+#####Arc-Red
 
 ![A screenshot of the Arc theme](http://i.imgur.com/pVpK1OL.png)
 
-#####Arc-Darker
+#####Arc-Red-Darker
 
 ![A screenshot of the Arc-Darker theme](http://i.imgur.com/SM0t0h2.png)
 
-#####Arc-Dark
+#####Arc-Red-Dark
 
 ![A screenshot of the Arc-Dark theme](http://i.imgur.com/XM7PJzT.png)
 
@@ -112,7 +114,7 @@ from the same directory as this README resides in, or
 
     sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
-###TODO
+###Todo
 
 - Replace the color of some remaining pictures in the assets folder.
 
@@ -150,5 +152,5 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 If you find a bug, please report it at https://github.com/horst3180/arc-theme/issues
 
 ### Full Preview
-![A full screenshot of the Arc Red theme](http://i.imgur.com/pVpK1OL.png)
+![A full screenshot of the Arc Red theme](http://i.imgur.com/6dh5qvb.jpg)
 <sub>Screenshot Details: Icons: Coming soon  [Wallpaper](https://www.walldevil.com/510903-red-galaxy-wallpaper.html) | Font: Cantarell</sub>
