@@ -2,7 +2,7 @@
 
 A red variation of [Horst3180's Arc Theme](https://github.com/horst3180/arc-theme).
 
-This version has a reduced color range, is mostly gray and red. I developed this version especially for all those who use linux on a thinkpad.
+This version has a reduced color range, is mostly gray and red. I developed this version especially for all those who use linux on a Thinkpad.
 
 Download the built theme [here](https://github.com/mclmzz/arc-theme-Red/releases/download/1/Arc-Red-theme.zip)
 
@@ -153,4 +153,4 @@ If you find a bug, please report it at https://github.com/horst3180/arc-theme/is
 
 ### Full Preview
 ![A full screenshot of the Arc Red theme](http://i.imgur.com/6dh5qvb.jpg)
-<sub>Screenshot Details: Icons: Coming soon  [Wallpaper](https://www.walldevil.com/510903-red-galaxy-wallpaper.html) | Font: Cantarell</sub>
+<sub>Screenshot Details: Icons: Coming soon | [Wallpaper](https://www.walldevil.com/510903-red-galaxy-wallpaper.html) | Font: Cantarell</sub>
