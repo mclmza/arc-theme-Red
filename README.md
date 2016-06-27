@@ -77,7 +77,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/mclmzz/arc-theme-Red --depth 1 && cd arc-theme
+    git clone https://github.com/mclmzz/arc-theme-Red --depth 1 && cd arc-theme-Red
 
 **2. Build and install the theme**
 
