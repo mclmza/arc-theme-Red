@@ -4,7 +4,7 @@ A red variation of [Horst3180's Arc Theme](https://github.com/horst3180/arc-them
 
 This version has a reduced color range, is mostly gray and red. I developed this version especially for all those who use linux on a Thinkpad.
 
-Download the built theme [here](https://github.com/mclmzz/arc-theme-Red/releases/download/1/Arc-Red-theme.zip)
+Download the built theme [here](https://github.com/mclmza/arc-theme-Red/releases/download/1/Arc-Red-theme.zip)
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
