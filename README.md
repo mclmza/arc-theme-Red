@@ -1,5 +1,7 @@
 # Arc Theme Red
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](mclmza@gmail.com)
+
 A red variation of [Horst3180's Arc Theme](https://github.com/horst3180/arc-theme).
 
 This version has a reduced color range, is mostly gray and red. I developed this version especially for all those who use linux on a Thinkpad.
