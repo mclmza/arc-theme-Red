@@ -1,6 +1,6 @@
 # Arc Theme Red
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](paypal.me/mclmza)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](http://paypal.me/mclmza)
 
 A red variation of [Horst3180's Arc Theme](https://github.com/horst3180/arc-theme).
 
