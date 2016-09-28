@@ -1,9 +1,9 @@
 AC_INIT(
     [arc-theme],
     [20160605],
-    [https://github.com/mclmzz/arc-theme-Red/issues],
+    [https://github.com/mclmza/arc-theme-Red/issues],
     [arc-theme],
-    [https://github.com/mclmzz/arc-theme-Red],
+    [https://github.com/mclmza/arc-theme-Red],
     []
 )
 
