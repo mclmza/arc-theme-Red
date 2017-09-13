@@ -10,17 +10,17 @@ Download the built theme [here](https://github.com/mclmza/arc-theme-Red/releases
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-###Arc Red is available in three variants 
+### Arc Red is available in three variants 
 
-#####Arc-Red
+##### Arc-Red
 
 ![A screenshot of the Arc theme](http://i.imgur.com/Utgi19P.png)
 
-#####Arc-Red-Darker
+##### Arc-Red-Darker
 
 ![A screenshot of the Arc-Darker theme](http://i.imgur.com/dQbcAc1.png)
 
-#####Arc-Red-Dark
+##### Arc-Red-Dark
 
 ![A screenshot of the Arc-Dark theme](http://i.imgur.com/z4Dg8pb.png)
 
@@ -116,7 +116,7 @@ from the same directory as this README resides in, or
 
     sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
-###Todo
+### Todo
 
 - Replace the color of some remaining pictures in the assets folder.
 
