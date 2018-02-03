@@ -114,7 +114,7 @@ Run
 
 from the same directory as this README resides in, or
 
-    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
+    sudo rm -rf /usr/share/themes/{Arc-Red,Arc-Red-Darker,Arc-Red-Dark}
 
 ### Todo
 
