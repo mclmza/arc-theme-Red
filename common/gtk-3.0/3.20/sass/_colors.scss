@@ -18,11 +18,16 @@ $link_visited_color: if($variant == 'light', darken($selected_bg_color,20%),
                                      lighten($selected_bg_color,10%));
 
 $selection_mode_bg: if($transparency == 'true', transparentize($selected_bg_color, 0.05), $selected_bg_color);
+$selection_mode_fg: $selected_fg_color;
 $warning_color: #F27835;
 $error_color: #FC4138;
+$warning_fg_color: white;
+$error_fg_color: white;
 $success_color: #73d216;
 $destructive_color: #F04A50;
-$suggested_color: #be3941;
+$suggested_color: #BE3941;
+$destructive_fg_color: white;
+$suggested_fg_color: white;
 
 $drop_target_color: #F08437;
 
